@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<Booklet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/iqb-berlin/testcenter/17.4.1/definitions/vo_Booklet.xsd">
+  <Metadata>
+    <Id>booklet_ma1g</Id>
+    <Label>Mathematik Klasse 1 Gruppentestung</Label>
+  </Metadata>
+  <BookletConfig>
+    <Config key="header_hidden">TRUE</Config>
+    <Config key="unit_navibuttons">OFF</Config>
+    <Config key="unit_screenheader">OFF</Config>
+    <Config key="toolbar_show_unit_title">FALSE</Config>
+  </BookletConfig>
+<Units>
+    <Unit id="RH_M_1" label="RH_M_1"/>
+    <Unit id="vid_1" label="Instruktion Video 1"/>
+    <Unit id="leftpic_scpic_UE" label="Übung 1b_a"/>
+    <Unit id="leftpic_scpic_1" label="1b_a 1"/>
+    <Unit id="leftpic_scpic_2" label="1b_a 2"/>
+    <Unit id="twochoiceonly_rl_1" label="1b_b 1"/>
+    <Unit id="twochoiceonly_rl_2" label="1b_b 2"/>
+    <Unit id="twochoiceonly_rl_3" label="1b_b 3"/>
+    <Unit id="twochoiceonly_rl_4" label="1b_b 4"/>
+    <Unit id="twochoiceonly_rl_5" label="1b_b 5"/>
+    <Unit id="twochoiceonly_rl_6" label="1b_b 6"/>
+    <Unit id="twochoiceonly_rl_7" label="1b_b 7"/>
+    <Unit id="twochoiceonly_rl_8" label="1b_b 8"/>
+    <Unit id="squarepic_4scrow83_1" label="1b_c 1"/>
+    <Unit id="squarepic_4scrow83_2" label="1b_c 2"/>
+    <Unit id="vierfelderAudio_Row_1" label="2_a 1"/>
+    <Unit id="vierfelderAudio_Row_2" label="2_a 2"/>
+    <Unit id="vierfelderAudio_Row_3" label="2_a 3"/>
+    <Unit id="vierfelderAudio_Row_4" label="2_a 4"/>
+
+    <Unit id="RH_M_2" label="RH_M_2"/>
+
+    <Unit id="squarepic_4scrow400_1" label="3_c 1"/>
+    <Unit id="squarepic_4scrow400_2" label="3_c 2"/>
+    <Unit id="squarepic_4scrow400_3" label="3_c 3"/>
+    <Unit id="squarepic_4scrow400_4" label="3_c 4"/>
+    <Unit id="squarepic_4scrow400_5" label="3_d 5"/>
+    <Unit id="squarepic_4scrow400_6" label="3_d 6"/>
+    <Unit id="squarepic_4scrow400_7" label="3_d 7"/>
+    <Unit id="squarepic_4scrow400_8" label="3_d 8"/>
+    <Unit id="toppic_4scrow350_1" label="3_e 1"/>
+    <Unit id="toppic_4scrow350_2" label="3_e 2"/>
+    <Unit id="toppic_4scrow350_3" label="3_e 3"/>
+    <Unit id="toppic_4scrow350_4" label="3_e 4"/>
+
+    <Unit id="RH_M_3" label="RH_M_3"/>
+    <Unit id="vid_2" label="Instruktion Video 2"/>
+    <Unit id="vfauvertical_UE_1" label="Übung 1"/>
+    <Unit id="vfauvertical_UE_2" label="Übung 2"/>
+    <Unit id="vfauvertical_UE_3" label="Übung 3"/>
+    <Unit id="vfauvertical_UE_4" label="Übung 4"/>
+    <Unit id="vid_3" label="Instruktion Video 3"/>
+    <Unit id="vfauvertical_UE_5" label="Übung 5"/>
+    <Unit id="but_row_audio_MK_01" label="4_a+MK 01"/>
+    <Unit id="but_row_audio_MK_02" label="4_a+MK 02"/>
+    <Unit id="but_row_audio_MK_03" label="4_a+MK 03"/>
+    <Unit id="but_row_audio_MK_04" label="4_a+MK 04"/>
+    <Unit id="but_row_audio_MK_05" label="4_a+MK 05"/>
+    <Unit id="but_row_audio_MK_06" label="4_a+MK 06"/>
+    <Unit id="but_row_audio_MK_07" label="4_a+MK 07"/>
+    <Unit id="but_row_audio_MK_08" label="4_a+MK 08"/>
+    <Unit id="but_row_audio_MK_09" label="4_a+MK 09"/>
+    <Unit id="but_row_audio_MK_10" label="4_a+MK 10"/>
+    <Unit id="dnd_Muscheln_1" label="4_b 1"/>
+    <Unit id="dnd_Muscheln_2" label="4_b 2"/>
+
+    <Unit id="RH_M_4" label="RH_M_4"/>
+    <Unit id="vid_4" label="Instruktion Video 4"/>
+
+    <Unit id="blitzsehen_UE" label="Übung 3_g 3_h"/>
+    <Unit id="blitzsehen_1" label="3_g 1"/>
+    <Unit id="blitzsehen_2" label="3_g 2"/>
+    <Unit id="blitzsehen_3" label="3_g 3"/>
+    <Unit id="blitzsehen_4" label="3_g 4"/>
+    <Unit id="blitzsehen_5" label="3_g 5"/>
+    <Unit id="blitzsehen_6" label="3_g 6"/>
+    <Unit id="blitzsehen_7" label="3_h 7"/>
+    <Unit id="blitzsehen_8" label="3_h 8"/>
+    <Unit id="blitzsehen_9" label="3_h 9"/>
+    <Unit id="squarepic_4scrow83_3" label="5_a 3"/>
+    <Unit id="squarepic_4scrow83_4" label="5_a 4"/>
+    <Unit id="squarepic_4scrow83_5" label="5_a 5"/>
+    <Unit id="vid_5" label="Instruktion Video 5"/>
+    <Unit id="forms_1" label="5_b 1"/>
+    <Unit id="forms_2" label="5_b 2"/>
+    <Unit id="rahmenhandlung_end" label="Rahmenhandlung Ende"/>
+
+  </Units>
+</Booklet>

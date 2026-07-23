@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/iqb-berlin/testcenter/17.4.1/definitions/vo_Unit.xsd">
+  <Metadata lastChange="2026-07-01T07:05:14.987Z">
+    <Id>RH_S_6</Id>
+    <Label>RH_S_6</Label>
+    <Reference>RH_S_6.vomd</Reference>
+  </Metadata>
+  <DefinitionRef player="iqb-player-lottie@1.2" editor="iqb-editor-stars@0.1.2-beta" lastChange="2026-07-13T08:58:10.690Z">RH_S_6.voud</DefinitionRef>
+</Unit>

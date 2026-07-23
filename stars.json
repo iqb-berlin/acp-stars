@@ -1,0 +1,1467 @@
+{
+  "packageId": "w3id.org/iqb/acp/jasz/5.2",
+  "version": "5.2.1",
+  "status": "RELEASED_PUBLIC",
+  "name": [
+    {
+      "lang": "de",
+      "value": "StarS"
+    }
+  ],
+  "description": [
+    {
+      "lang": "de",
+      "value": "Sämtliche Daten und Dokumente für die Online-Durchführung und Auswertung des Durchganges für StarS"
+    }
+  ],
+  "maintainerName": "IQB-Berlin",
+  "maintainerUrl": "https://www.iqb.hu-berlin.de",
+  "metadata": {
+    "profileId": "https://raw.githubusercontent.com/iqb-vocabs/p44/master/index.json",
+    "entries": [
+      {
+        "id": "e1",
+        "label": [
+          {
+            "lang": "de",
+            "value": "Art der Erhebung"
+          }
+        ],
+        "value": [
+          {
+            "id": "https://w3id.org/iqb/v85/dt/1",
+            "label": [
+              {
+                "lang": "de",
+                "value": "Kompetenz- und Leistungsdaten"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "kim_type_school",
+        "label": [
+          {
+            "lang": "de",
+            "value": "Schulform"
+          }
+        ],
+        "value": [
+          {
+            "id": "https://w3id.org/iqb/v85/dt/1",
+            "label": [
+              {
+                "lang": "de",
+                "value": "Grundschule"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "assessmentParts": [
+    {
+      "id": "sp1",
+      "name": [
+        {
+          "lang": "de",
+          "value": "StarS Sprache 1"
+        }
+      ],
+      "description": [
+        {
+          "lang": "de",
+          "value": "Testaufgaben für Sprache, Jahrgangsstufe 1"
+        }
+      ],
+      "metadata": {
+        "profileId": "https://raw.githubusercontent.com/iqb-vocabs/p44/master/index.json",
+        "entries": [
+          {
+            "id": "f0",
+            "label": [
+              {
+                "lang": "de",
+                "value": "Klassenstufe"
+              }
+            ],
+            "value": [
+              {
+                "id": "http://w3id.org/openeduhub/vocabs/educationalLevel/1",
+                "label": [
+                  {
+                    "lang": "de",
+                    "value": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "sb",
+            "label": [
+              {
+                "lang": "de",
+                "value": "Bereich"
+              }
+            ],
+            "value": [
+              {
+                "id": "https://w3id.org/iqb/v85/dt/1",
+                "label": [
+                  {
+                    "lang": "de",
+                    "value": "Sprache"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "units": [
+        {
+          "id": "RH_S_1",
+          "name": "RH_S_1",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/RH_S_1.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "RH_S_2",
+          "name": "RH_S_2",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/RH_S_2.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "RH_S_3",
+          "name": "RH_S_3",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/RH_S_3.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "RH_S_4",
+          "name": "RH_S_4",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/RH_S_4.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "RH_S_5",
+          "name": "RH_S_5",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/RH_S_5.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "RH_S_6",
+          "name": "RH_S_6",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/RH_S_6.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "but_multi_2row_1",
+          "name": "S_2_SR",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/but_multi_2row_1.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "but_multi_2row_10",
+          "name": "S_2_SR",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/but_multi_2row_10.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "but_multi_2row_2",
+          "name": "S_2_SR",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/but_multi_2row_2.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "but_multi_2row_3",
+          "name": "S_2_SR",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/but_multi_2row_3.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "but_multi_2row_4",
+          "name": "S_2_SR",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/but_multi_2row_4.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "but_multi_2row_5",
+          "name": "S_2_SR",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/but_multi_2row_5.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "but_multi_2row_6",
+          "name": "S_2_SR",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/but_multi_2row_6.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "but_multi_2row_7",
+          "name": "S_2_SR",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/but_multi_2row_7.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "but_multi_2row_8",
+          "name": "S_2_SR",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/but_multi_2row_8.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "but_multi_2row_9",
+          "name": "S_2_SR",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/but_multi_2row_9.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "but_multi_2row_UE",
+          "name": "S_2_SR",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/but_multi_2row_UE.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "dnd_Koffer_1",
+          "name": "S1_1_AE",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/dnd_Koffer_1.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "dnd_Koffer_2",
+          "name": "S1_1_AE",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/dnd_Koffer_2.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "dnd_Koffer_3",
+          "name": "S1_1_AE",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/dnd_Koffer_3.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "dnd_Koffer_4",
+          "name": "S1_1_AE",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/dnd_Koffer_4.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "dnd_Koffer_5",
+          "name": "S1_1_AE",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/dnd_Koffer_5.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "dnd_Koffer_6",
+          "name": "S1_1_AE",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/dnd_Koffer_6.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "dnd_Koffer_7",
+          "name": "S1_1_AE",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/dnd_Koffer_7.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "dnd_Koffer_8",
+          "name": "S1_1_AE",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/dnd_Koffer_8.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "dnd_Koffer_9",
+          "name": "S1_1_AE",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/dnd_Koffer_9.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "dnd_Koffer_UE",
+          "name": "S1_1_AE",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/dnd_Koffer_UE.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_1",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_1.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_10",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_10.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_11",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_11.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_12",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_12.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_13",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_13.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_14",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_14.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_15",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_15.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_16",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_16.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_17",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_17.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_18",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_18.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_19",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_19.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_2",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_2.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_20",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_20.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_21",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_21.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_22",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_22.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_23",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_23.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_24",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_24.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_25",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_25.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_26",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_26.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_27",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_27.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_28",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_28.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_29",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_29.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_3",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_3.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_30",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_30.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_31",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_31.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_32",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_32.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_33",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_33.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_34",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_34.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_35",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_35.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_36",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_36.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_37",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_37.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_38",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_38.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_39",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_39.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_4",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_4.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_40",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_40.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_41",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_41.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_42",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_42.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_5",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_5.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_6",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_6.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_7",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_7.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_8",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_8.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_9",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_9.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_UE_1",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_UE_1.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_UE_2",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_UE_2.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_UE_3",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_UE_3.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vfauvertical_UE_4",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vfauvertical_UE_4.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vid_1",
+          "name": "Video",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vid_1.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vid_2",
+          "name": "Video",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vid_2.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vid_3",
+          "name": "Video",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vid_3.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vid_4",
+          "name": "Video",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vid_4.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vid_5",
+          "name": "Video",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vid_5.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vid_6",
+          "name": "Video",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vid_6.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "vid_7",
+          "name": "Video",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/vid_7.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        },
+        {
+          "id": "iqb-player-lottie@1.2",
+          "name": "Lottie Player",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/player/iqb-player-lottie-1.2.3.html",
+            "type": "PLAYER"
+          }
+        },
+        {
+          "id": "iqb-player-stars@0.6",
+          "name": "Stars Player",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/player/iqb-player-stars-0.6.42.html",
+            "type": "PLAYER"
+          }
+        },
+        {
+          "id": "avatar.itcr",
+          "name": "Lottie Avatare",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/player/avatar.itcr.zip",
+            "type": "PLAYER_DEPENDENCY"
+          }
+        }
+      ],
+      "bookletModules": [
+        {
+          "id": "sp1-rh1",
+          "name": "StarS Sprache 1 Rahmenhandlung 1",
+          "lang": "de",
+          "units": [
+            {
+              "id": "RH_S_1",
+              "order": 1
+            }
+          ]
+        },
+        {
+          "id": "sp1-rh2",
+          "name": "StarS Sprache 1 Rahmenhandlung 2",
+          "lang": "de",
+          "units": [
+            {
+              "id": "RH_S_2",
+              "order": 1
+            }
+          ]
+        },
+        {
+          "id": "sp1-rh3",
+          "name": "StarS Sprache 1 Rahmenhandlung 3",
+          "lang": "de",
+          "units": [
+            {
+              "id": "RH_S_3",
+              "order": 1
+            }
+          ]
+        },
+        {
+          "id": "sp1-rh4",
+          "name": "StarS Sprache 1 Rahmenhandlung 4",
+          "lang": "de",
+          "units": [
+            {
+              "id": "RH_S_4",
+              "order": 1
+            }
+          ]
+        },
+        {
+          "id": "sp1-rh5",
+          "name": "StarS Sprache 1 Rahmenhandlung 5",
+          "lang": "de",
+          "units": [
+            {
+              "id": "RH_S_5",
+              "order": 1
+            }
+          ]
+        },
+        {
+          "id": "sp1-rh6",
+          "name": "StarS Sprache 1 Rahmenhandlung 6",
+          "lang": "de",
+          "units": [
+            {
+              "id": "RH_S_6",
+              "order": 1
+            }
+          ]
+        },
+        {
+          "id": "sp1-m1",
+          "name": "StarS Sprache 1 Modul 1",
+          "lang": "de",
+          "units": [
+            {
+              "id": "vid_1",
+              "order": 2
+            },
+            {
+              "id": "vid_2",
+              "order": 3
+            },
+            {
+              "id": "vfauvertical_UE_1",
+              "order": 4
+            },
+            {
+              "id": "vfauvertical_1",
+              "order": 5
+            },
+            {
+              "id": "vfauvertical_2",
+              "order": 6
+            },
+            {
+              "id": "vfauvertical_3",
+              "order": 7
+            },
+            {
+              "id": "vfauvertical_4",
+              "order": 8
+            },
+            {
+              "id": "vfauvertical_5",
+              "order": 9
+            },
+            {
+              "id": "vfauvertical_6",
+              "order": 10
+            },
+            {
+              "id": "vfauvertical_7",
+              "order": 11
+            },
+            {
+              "id": "vfauvertical_8",
+              "order": 12
+            },
+            {
+              "id": "vfauvertical_9",
+              "order": 13
+            },
+            {
+              "id": "vfauvertical_10",
+              "order": 14
+            },
+            {
+              "id": "vfauvertical_11",
+              "order": 15
+            },
+            {
+              "id": "vfauvertical_12",
+              "order": 16
+            },
+            {
+              "id": "vfauvertical_13",
+              "order": 17
+            },
+            {
+              "id": "vfauvertical_14",
+              "order": 18
+            },
+            {
+              "id": "vfauvertical_15",
+              "order": 19
+            }
+          ]
+        },
+        {
+          "id": "sp1-m2",
+          "name": "StarS Sprache 1 Modul 2",
+          "lang": "de",
+          "units": [
+            {
+              "id": "vid_3",
+              "order": 2
+            },
+            {
+              "id": "vfauvertical_UE_2",
+              "order": 3
+            },
+            {
+              "id": "vid_4",
+              "order": 4
+            },
+            {
+              "id": "vfauvertical_UE_3",
+              "order": 5
+            },
+            {
+              "id": "vfauvertical_16",
+              "order": 6
+            },
+            {
+              "id": "vfauvertical_17",
+              "order": 7
+            },
+            {
+              "id": "vfauvertical_18",
+              "order": 8
+            },
+            {
+              "id": "vfauvertical_19",
+              "order": 9
+            },
+            {
+              "id": "vfauvertical_20",
+              "order": 10
+            },
+            {
+              "id": "vfauvertical_21",
+              "order": 11
+            },
+            {
+              "id": "vfauvertical_22",
+              "order": 12
+            },
+            {
+              "id": "vfauvertical_23",
+              "order": 13
+            },
+            {
+              "id": "vfauvertical_24",
+              "order": 14
+            },
+            {
+              "id": "vfauvertical_25",
+              "order": 15
+            },
+            {
+              "id": "vfauvertical_26",
+              "order": 16
+            },
+            {
+              "id": "vfauvertical_27",
+              "order": 17
+            },
+            {
+              "id": "vfauvertical_28",
+              "order": 18
+            },
+            {
+              "id": "vfauvertical_29",
+              "order": 19
+            },
+            {
+              "id": "vfauvertical_230",
+              "order": 20
+            }
+          ]
+        },
+        {
+          "id": "sp1-m3",
+          "name": "StarS Sprache 1 Modul 3",
+          "lang": "de",
+          "units": [
+            {
+              "id": "vid_5",
+              "order": 2
+            },
+            {
+              "id": "but_multi_2row_UE",
+              "order": 3
+            },
+            {
+              "id": "but_multi_2row_1",
+              "order": 4
+            },
+            {
+              "id": "but_multi_2row_2",
+              "order": 5
+            },
+            {
+              "id": "but_multi_2row_3",
+              "order": 6
+            },
+            {
+              "id": "but_multi_2row_4",
+              "order": 7
+            },
+            {
+              "id": "but_multi_2row_5",
+              "order": 8
+            },
+            {
+              "id": "but_multi_2row_6",
+              "order": 9
+            },
+            {
+              "id": "but_multi_2row_7",
+              "order": 10
+            },
+            {
+              "id": "but_multi_2row_8",
+              "order": 11
+            },
+            {
+              "id": "but_multi_2row_9",
+              "order": 12
+            },
+            {
+              "id": "but_multi_2row_10",
+              "order": 13
+            }
+          ]
+        },
+        {
+          "id": "sp1-m4",
+          "name": "StarS Sprache 1 Modul 4",
+          "lang": "de",
+          "units": [
+            {
+              "id": "vid_6",
+              "order": 2
+            },
+            {
+              "id": "vfauvertical_UE_4",
+              "order": 3
+            },
+            {
+              "id": "vfauvertical_31",
+              "order": 4
+            },
+            {
+              "id": "vfauvertical_32",
+              "order": 5
+            },
+            {
+              "id": "vfauvertical_33",
+              "order": 6
+            },
+            {
+              "id": "vfauvertical_34",
+              "order": 7
+            },
+            {
+              "id": "vfauvertical_35",
+              "order": 8
+            },
+            {
+              "id": "vfauvertical_36",
+              "order": 9
+            },
+            {
+              "id": "vfauvertical_37",
+              "order": 10
+            },
+            {
+              "id": "vfauvertical_38",
+              "order": 11
+            },
+            {
+              "id": "vfauvertical_39",
+              "order": 12
+            },
+            {
+              "id": "vfauvertical_340",
+              "order": 13
+            },
+            {
+              "id": "vfauvertical_41",
+              "order": 14
+            },
+            {
+              "id": "vfauvertical_42",
+              "order": 15
+            }
+          ]
+        },
+        {
+          "id": "sp1-m5",
+          "name": "StarS Sprache 1 Modul 5",
+          "lang": "de",
+          "units": [
+            {
+              "id": "vid_7",
+              "order": 2
+            },
+            {
+              "id": "dnd_Koffer_UE",
+              "order": 3
+            },
+            {
+              "id": "dnd_Koffer_1",
+              "order": 4
+            },
+            {
+              "id": "dnd_Koffer_2",
+              "order": 5
+            },
+            {
+              "id": "dnd_Koffer_3",
+              "order": 6
+            },
+            {
+              "id": "dnd_Koffer_4",
+              "order": 7
+            },
+            {
+              "id": "dnd_Koffer_5",
+              "order": 8
+            },
+            {
+              "id": "dnd_Koffer_6",
+              "order": 9
+            },
+            {
+              "id": "dnd_Koffer_7",
+              "order": 10
+            },
+            {
+              "id": "dnd_Koffer_8",
+              "order": 11
+            },
+            {
+              "id": "dnd_Koffer_9",
+              "order": 12
+            }
+          ]
+        }
+      ],
+      "instruments": [
+        {
+          "id": "sp-1",
+          "name": [
+            {
+              "lang": "de",
+              "value": "StarS Sprache 1"
+            }
+          ],
+          "administrationMode": "TEST_BY_TEST_TAKER",
+          "metadata": {
+            "profileId": "https://raw.githubusercontent.com/iqb-vocabs/p44/master/index.json",
+            "entries": [
+              {
+                "id": "f0",
+                "label": [
+                  {
+                    "lang": "de",
+                    "value": "Klassenstufe"
+                  }
+                ],
+                "value": [
+                  {
+                    "id": "http://w3id.org/openeduhub/vocabs/educationalLevel/1",
+                    "label": [
+                      {
+                        "lang": "de",
+                        "value": "1"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "sb",
+                "label": [
+                  {
+                    "lang": "de",
+                    "value": "Bereich"
+                  }
+                ],
+                "value": [
+                  {
+                    "id": "https://w3id.org/iqb/v85/dt/1",
+                    "label": [
+                      {
+                        "lang": "de",
+                        "value": "Sprache"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "testcenterBooklet": [
+            {
+              "definitionId": "./booklets/booklet_sp1g.xml",
+              "lang": "de",
+              "modules": [
+                {
+                  "moduleId": "sp1-rh1",
+                  "order": 1
+                },
+                {
+                  "moduleId": "sp1-m1",
+                  "order": 2
+                },
+                {
+                  "moduleId": "sp1-rh2",
+                  "order": 3
+                },
+                {
+                  "moduleId": "sp1-m2",
+                  "order": 4
+                },
+                {
+                  "moduleId": "sp1-rh3",
+                  "order": 5
+                },
+                {
+                  "moduleId": "sp1-m3",
+                  "order": 6
+                },
+                {
+                  "moduleId": "sp1-rh4",
+                  "order": 7
+                },
+                {
+                  "moduleId": "sp1-m4",
+                  "order": 8
+                },
+                {
+                  "moduleId": "sp1-rh5",
+                  "order": 9
+                },
+                {
+                  "moduleId": "sp1-m5",
+                  "order": 10
+                },
+                {
+                  "moduleId": "sp1-rh6",
+                  "order": 11
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ma1",
+      "name": [
+        {
+          "lang": "de",
+          "value": "StarS Mathe 1"
+        }
+      ],
+      "description": [
+        {
+          "lang": "de",
+          "value": "Testaufgaben für Mathematik, Jahrgangsstufe 1"
+        }
+      ],
+      "metadata": {
+        "profileId": "https://raw.githubusercontent.com/iqb-vocabs/p44/master/index.json",
+        "entries": [
+          {
+            "id": "f0",
+            "label": [
+              {
+                "lang": "de",
+                "value": "Klassenstufe"
+              }
+            ],
+            "value": [
+              {
+                "id": "http://w3id.org/openeduhub/vocabs/educationalLevel/1",
+                "label": [
+                  {
+                    "lang": "de",
+                    "value": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "sb",
+            "label": [
+              {
+                "lang": "de",
+                "value": "Bereich"
+              }
+            ],
+            "value": [
+              {
+                "id": "https://w3id.org/iqb/v85/dt/1",
+                "label": [
+                  {
+                    "lang": "de",
+                    "value": "Mathe"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "units": [
+        {
+          "id": "RH_S_1",
+          "name": "RH_S_1",
+          "lang": "de",
+          "dependencies": {
+            "id": "./units/Sp1/RH_S_1.voud",
+            "type": "UNIT_UI_DEFINITION"
+          }
+        }
+      ],
+      "bookletModules": [
+        {
+          "id": "sp1-m1",
+          "name": "StarS Sprache 1",
+          "lang": "de",
+          "units": [
+            {
+              "id": "RH_S_1",
+              "order": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

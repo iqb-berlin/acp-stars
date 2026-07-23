@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<Booklet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/iqb-berlin/testcenter/17.4.1/definitions/vo_Booklet.xsd">
+  <Metadata>
+    <Id>booklet_sp1g</Id>
+    <Label>Sprache Klasse 1 Gruppentestung</Label>
+  </Metadata>
+  <BookletConfig>
+    <Config key="header_hidden">TRUE</Config>
+    <Config key="unit_navibuttons">OFF</Config>
+    <Config key="unit_screenheader">OFF</Config>
+    <Config key="toolbar_show_unit_title">FALSE</Config>
+  </BookletConfig>
+  <Units>
+    <Unit id="RH_S_1" label="RH_S_1" labelshort="1"/>
+    <Unit id="vid_1" label="Video" labelshort="2"/>
+    <Unit id="vid_2" label="Video" labelshort="3"/>
+    <Unit id="vfauvertical_UE_1" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="4"/>
+    <Unit id="vfauvertical_1" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="5"/>
+    <Unit id="vfauvertical_2" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="6"/>
+    <Unit id="vfauvertical_3" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="7"/>
+    <Unit id="vfauvertical_4" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="8"/>
+    <Unit id="vfauvertical_5" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="9"/>
+    <Unit id="vfauvertical_6" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="10"/>
+    <Unit id="vfauvertical_7" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="11"/>
+    <Unit id="vfauvertical_8" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="12"/>
+    <Unit id="vfauvertical_9" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="13"/>
+    <Unit id="vfauvertical_10" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="14"/>
+    <Unit id="vfauvertical_11" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="15"/>
+    <Unit id="vfauvertical_12" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="16"/>
+    <Unit id="vfauvertical_13" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="17"/>
+    <Unit id="vfauvertical_14" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="18"/>
+    <Unit id="vfauvertical_15" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="19"/>
+
+    <Unit id="RH_S_2" label="RH_S_2" labelshort="20"/>
+    <Unit id="vid_3" label="Video" labelshort="21"/>
+    <Unit id="vfauvertical_UE_2" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="22"/>
+    <Unit id="vid_4" label="Video" labelshort="23"/>
+    <Unit id="vfauvertical_UE_3" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="24"/>
+    <Unit id="vfauvertical_16" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="25"/>
+    <Unit id="vfauvertical_17" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="26"/>
+    <Unit id="vfauvertical_18" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="27"/>
+    <Unit id="vfauvertical_19" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="28"/>
+    <Unit id="vfauvertical_20" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="29"/>
+    <Unit id="vfauvertical_21" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="30"/>
+    <Unit id="vfauvertical_22" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="31"/>
+    <Unit id="vfauvertical_23" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="32"/>
+    <Unit id="vfauvertical_24" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="33"/>
+    <Unit id="vfauvertical_25" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="34"/>
+    <Unit id="vfauvertical_26" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="35"/>
+    <Unit id="vfauvertical_27" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="36"/>
+    <Unit id="vfauvertical_28" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="37"/>
+    <Unit id="vfauvertical_29" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="38"/>
+    <Unit id="vfauvertical_30" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="39"/>
+
+    <Unit id="RH_S_3" label="RH_S_3" labelshort="40"/>
+    <Unit id="vid_5" label="Video" labelshort="41"/>
+    <Unit id="but_multi_2row_UE" label="S_2_SR" labelshort="42"/>
+    <Unit id="but_multi_2row_1" label="S_2_SR" labelshort="43"/>
+    <Unit id="but_multi_2row_2" label="S_2_SR" labelshort="44"/>
+    <Unit id="but_multi_2row_3" label="S_2_SR" labelshort="45"/>
+    <Unit id="but_multi_2row_4" label="S_2_SR" labelshort="46"/>
+    <Unit id="but_multi_2row_5" label="S_2_SR" labelshort="47"/>
+    <Unit id="but_multi_2row_6" label="S_2_SR" labelshort="48"/>
+    <Unit id="but_multi_2row_7" label="S_2_SR" labelshort="49"/>
+    <Unit id="but_multi_2row_8" label="S_2_SR" labelshort="50"/>
+    <Unit id="but_multi_2row_9" label="S_2_SR" labelshort="51"/>
+    <Unit id="but_multi_2row_10" label="S_2_SR" labelshort="52"/>
+
+    <Unit id="RH_S_4" label="RH_S_4" labelshort="53"/>
+    <Unit id="vid_6" label="Video" labelshort="54"/>
+    <Unit id="vfauvertical_UE_4" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="55"/>
+    <Unit id="vfauvertical_31" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="56"/>
+    <Unit id="vfauvertical_32" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="57"/>
+    <Unit id="vfauvertical_33" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="58"/>
+    <Unit id="vfauvertical_34" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="59"/>
+    <Unit id="vfauvertical_35" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="60"/>
+    <Unit id="vfauvertical_36" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="61"/>
+    <Unit id="vfauvertical_37" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="62"/>
+    <Unit id="vfauvertical_38" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="63"/>
+    <Unit id="vfauvertical_39" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="64"/>
+    <Unit id="vfauvertical_40" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="65"/>
+    <Unit id="vfauvertical_41" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="66"/>
+    <Unit id="vfauvertical_42" label="S1_4_BID; S_2_WBA ; S_3_SBA" labelshort="67"/>
+
+    <Unit id="RH_S_5" label="RH_S_5" labelshort="68"/>
+    <Unit id="vid_7" label="Video" labelshort="69"/>
+    <Unit id="dnd_Koffer_UE" label="S1_1_AE" labelshort="70"/>
+    <Unit id="dnd_Koffer_1" label="S1_1_AE" labelshort="71"/>
+    <Unit id="dnd_Koffer_2" label="S1_1_AE" labelshort="72"/>
+    <Unit id="dnd_Koffer_3" label="S1_1_AE" labelshort="73"/>
+    <Unit id="dnd_Koffer_4" label="S1_1_AE" labelshort="74"/>
+    <Unit id="dnd_Koffer_5" label="S1_1_AE" labelshort="75"/>
+    <Unit id="dnd_Koffer_6" label="S1_1_AE" labelshort="76"/>
+    <Unit id="dnd_Koffer_7" label="S1_1_AE" labelshort="77"/>
+    <Unit id="dnd_Koffer_8" label="S1_1_AE" labelshort="78"/>
+    <Unit id="dnd_Koffer_9" label="S1_1_AE" labelshort="79"/>
+
+    <Unit id="RH_S_6" label="RH_S_6" labelshort="80"/>
+  </Units>
+</Booklet>

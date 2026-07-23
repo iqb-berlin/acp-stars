@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/iqb-berlin/testcenter/17.4.1/definitions/vo_Unit.xsd">
+  <Metadata lastChange="2026-05-26T11:26:49.555Z">
+    <Id>vfauvertical_8</Id>
+    <Label>S1_4_BID; S_2_WBA ; S_3_SBA</Label>
+    <Description/>
+    <Reference>vfauvertical_8.vomd</Reference>
+  </Metadata>
+  <DefinitionRef player="iqb-player-stars@0.6" editor="iqb-editor-stars@0.1.2-beta" lastChange="2026-05-27T10:22:26.898Z">vfauvertical_8.voud</DefinitionRef>
+</Unit>

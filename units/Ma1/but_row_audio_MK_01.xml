@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/iqb-berlin/testcenter/17.4.1/definitions/vo_Unit.xsd">
+  <Metadata lastChange="2026-05-26T12:23:16.353Z">
+    <Id>but_row_audio_MK_01</Id>
+    <Label>M1_4_a_A_HZ; M1_4_a_A_VE;M1_4_a_S_AZ;M1_4_a_S_VG</Label>
+    <Description>Bildgröße: 700 x 350 px</Description>
+    <Reference>but_row_audio_MK_01.vomd</Reference>
+  </Metadata>
+  <DefinitionRef player="iqb-player-stars@0.6" editor="iqb-editor-stars@0.1.2-beta" lastChange="2026-05-26T12:29:07.459Z">but_row_audio_MK_01.voud</DefinitionRef>
+</Unit>

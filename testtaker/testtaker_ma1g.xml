@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Testtakers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/iqb-berlin/testcenter/17.4.1/definitions/vo_Testtakers.xsd">
+  <Metadata/>
+  <CustomTexts>
+    <CustomText key="login_testEndButtonText">Test beenden</CustomText>
+  </CustomTexts>
+  <Group id="akow93j9js5f7u" label="Login-Gruppe A">
+    <Login mode="run-hot-return" name="schlummer" pw="trunk">
+      <Booklet>booklet_ma1g</Booklet>
+    </Login>
+    <Login mode="run-hot-restart" name="9283982772883777483838" pw="">
+      <Booklet>booklet_ma1g</Booklet>
+    </Login>
+  </Group>
+</Testtakers>

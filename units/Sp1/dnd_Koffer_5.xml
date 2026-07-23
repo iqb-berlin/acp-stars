@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/iqb-berlin/testcenter/17.4.1/definitions/vo_Unit.xsd">
+  <Metadata lastChange="2026-05-26T12:36:34.991Z">
+    <Id>dnd_Koffer_5</Id>
+    <Label>S1_1_AE</Label>
+    <Description/>
+    <Reference>dnd_Koffer_5.vomd</Reference>
+  </Metadata>
+  <DefinitionRef player="iqb-player-stars@0.6" editor="iqb-editor-stars@0.1.2-beta" lastChange="2026-05-26T12:45:18.131Z">dnd_Koffer_5.voud</DefinitionRef>
+</Unit>
