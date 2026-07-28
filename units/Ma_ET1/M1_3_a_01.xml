@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<Unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/iqb-berlin/testcenter/17.4.1/definitions/vo_Unit.xsd">
+  <Metadata lastChange="2026-01-15T12:48:14.449Z">
+    <Id>M1_3_a_01</Id>
+    <Label>Klasse 1 Skala 3_a Item 01 Lehreransicht (geprüft 2 von 2)</Label>
+    <Reference>M1_3_a_01.vomd</Reference>
+  </Metadata>
+  <DefinitionRef player="iqb-player-aspect@2.7" editor="iqb-editor-aspect@2.7" lastChange="2026-06-01T08:19:56.961Z">M1_3_a_01.voud</DefinitionRef>
+  <BaseVariables>
+    <Variable id="text_1749536610359_1" alias="text_10" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="text_1760524521173_1" alias="text_6" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="text_1767011228820_1" alias="text_1" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="text_1767011471410_1" alias="text_2" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="image_1767011371308_1" alias="image_1" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="text_1767011494948_1" alias="text_3" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="text_1760438784184_1" alias="text_7" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="radio_1760438784184_1" alias="Mengen" type="integer" format="" nullable="false" multiple="false" page="">
+      <Values complete="true">
+        <Value>
+          <label>richtig an.</label>
+          <value>1</value>
+        </Value>
+        <Value>
+          <label>falsch an.</label>
+          <value>2</value>
+        </Value>
+      </Values>
+    </Variable>
+    <Variable id="text_1764841311208_1" alias="text_5" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="checkbox_1764841389208_1" alias="fehler_1" type="boolean" format="" nullable="false" multiple="false" page="">
+      <Values complete="true">
+        <Value>
+          <label>Angekreuzt: Fehlende Eins-zu-Eins Zuordnung (Das Kind ordnet nicht jedem Punkt genau ein Zahlwort zu, sondern einem Punkt kein Zahlwort oder einem Punkt mehrere Zahlwörter.)</label>
+          <value>true</value>
+        </Value>
+        <Value>
+          <label>Nicht Angekreuzt: Fehlende Eins-zu-Eins Zuordnung (Das Kind ordnet nicht jedem Punkt genau ein Zahlwort zu, sondern einem Punkt kein Zahlwort oder einem Punkt mehrere Zahlwörter.)</label>
+          <value>false</value>
+        </Value>
+      </Values>
+    </Variable>
+    <Variable id="checkbox_1764841408089_1" alias="fehler_2" type="boolean" format="" nullable="false" multiple="false" page="">
+      <Values complete="true">
+        <Value>
+          <label>Angekreuzt: Probleme mit der Zahlwortreihe (Das Kind lässt Zahlwörter aus oder gibt die Zahlwörter in der falschen Reihenfolge wieder, z.B. eins, zwei, drei, vier, fünf, sechs, acht, neun, oder eins zwei fünf sieben neun.)</label>
+          <value>true</value>
+        </Value>
+        <Value>
+          <label>Nicht Angekreuzt: Probleme mit der Zahlwortreihe (Das Kind lässt Zahlwörter aus oder gibt die Zahlwörter in der falschen Reihenfolge wieder, z.B. eins, zwei, drei, vier, fünf, sechs, acht, neun, oder eins zwei fünf sieben neun.)</label>
+          <value>false</value>
+        </Value>
+      </Values>
+    </Variable>
+    <Variable id="checkbox_1767012055731_1" alias="fehler_3" type="boolean" format="" nullable="false" multiple="false" page="">
+      <Values complete="true">
+        <Value>
+          <label>Angekreuzt: Fehlendes Verständnis für das Kardinalzahlprinzip (Das Kind kann auf die Frage "Wie viele?"
+nicht antworten bzw. beginnt den Zählprozess auf die Frage erneut anstatt die Gesamtanzahl der Punkte anzugeben.)</label>
+          <value>true</value>
+        </Value>
+        <Value>
+          <label>Nicht Angekreuzt: Fehlendes Verständnis für das Kardinalzahlprinzip (Das Kind kann auf die Frage "Wie viele?"
+nicht antworten bzw. beginnt den Zählprozess auf die Frage erneut anstatt die Gesamtanzahl der Punkte anzugeben.)</label>
+          <value>false</value>
+        </Value>
+      </Values>
+    </Variable>
+  </BaseVariables>
+  <CodingSchemeRef schemer="iqb-schemer@2.1" lastChange="2025-07-17T06:55:38.303Z"/>
+</Unit>

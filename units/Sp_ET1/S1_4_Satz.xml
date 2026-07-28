@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<Unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/iqb-berlin/testcenter/17.4.1/definitions/vo_Unit.xsd">
+  <Metadata lastChange="2026-07-02T12:45:36.796Z">
+    <Id>S1_4_Satz</Id>
+    <Label>begleitende Beobachtung (Protokollbogen für IEA)</Label>
+    <Description/>
+    <Reference>S1_4_Satz.vomd</Reference>
+  </Metadata>
+  <DefinitionRef player="iqb-player-aspect@2.12" editor="iqb-editor-aspect@2.12" lastChange="2026-07-02T12:45:36.841Z">S1_4_Satz.voud</DefinitionRef>
+  <BaseVariables>
+    <Variable id="text_1782845657416_1" alias="text_3" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="likert_1782845281313_1" alias="likert_2" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="likert-row_1782845316672_1" alias="buchstabenweise" type="integer" format="" nullable="false" multiple="false" page="">
+      <Values complete="true">
+        <Value>
+          <label/>
+          <value>1</value>
+        </Value>
+        <Value>
+          <label/>
+          <value>2</value>
+        </Value>
+      </Values>
+    </Variable>
+    <Variable id="likert-row_1782845415692_1" alias="Schreibrichtung" type="integer" format="" nullable="false" multiple="false" page="">
+      <Values complete="true">
+        <Value>
+          <label/>
+          <value>1</value>
+        </Value>
+        <Value>
+          <label/>
+          <value>2</value>
+        </Value>
+      </Values>
+    </Variable>
+    <Variable id="likert-row_1782845434804_1" alias="Ermüdung" type="integer" format="" nullable="false" multiple="false" page="">
+      <Values complete="true">
+        <Value>
+          <label/>
+          <value>1</value>
+        </Value>
+        <Value>
+          <label/>
+          <value>2</value>
+        </Value>
+      </Values>
+    </Variable>
+    <Variable id="likert_1782845455177_1" alias="likert_1" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="likert-row_1782845486055_1" alias="Schreibhand" type="integer" format="" nullable="false" multiple="false" page="">
+      <Values complete="true">
+        <Value>
+          <label/>
+          <value>1</value>
+        </Value>
+        <Value>
+          <label/>
+          <value>2</value>
+        </Value>
+        <Value>
+          <label/>
+          <value>3</value>
+        </Value>
+      </Values>
+    </Variable>
+  </BaseVariables>
+  <CodingSchemeRef schemer="iqb-schemer@2.1" schemeType="iqb@3.0" lastChange="2026-06-30T19:02:53.581Z">S1_4_Satz.vocs</CodingSchemeRef>
+</Unit>

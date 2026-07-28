@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<Unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/iqb-berlin/testcenter/17.4.1/definitions/vo_Unit.xsd">
+  <Metadata lastChange="2026-05-06T15:00:22.356Z">
+    <Id>M1_1a_c_03</Id>
+    <Label>Klasse 1 Skala 1a_c Item 03</Label>
+    <Reference>M1_1a_c_03.vomd</Reference>
+  </Metadata>
+  <DefinitionRef player="iqb-player-aspect@2.7" editor="iqb-editor-aspect@2.7" lastChange="2026-06-01T08:18:38.161Z">M1_1a_c_03.voud</DefinitionRef>
+  <BaseVariables>
+    <Variable id="text_1749536610359_1" alias="text_10" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="text_1760524521173_1" alias="text_6" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="checkbox_1778077989949_1" alias="Hilfestellung" type="boolean" format="" nullable="false" multiple="false" page="">
+      <Values complete="true">
+        <Value>
+          <label>Angekreuzt: Hilfestellung genutzt.</label>
+          <value>true</value>
+        </Value>
+        <Value>
+          <label>Nicht Angekreuzt: Hilfestellung genutzt.</label>
+          <value>false</value>
+        </Value>
+      </Values>
+    </Variable>
+    <Variable id="text_1772442787172_1" alias="text_1" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="text_1772442872025_1" alias="text_2" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="radio_1772442872025_1" alias="radio_1" type="integer" format="" nullable="false" multiple="false" page="">
+      <Values complete="true">
+        <Value>
+          <label>fehlerfrei bis 15 (Kriterium 1).</label>
+          <value>1</value>
+        </Value>
+        <Value>
+          <label>fehlerfrei bis 30 (Kriterium 2).</label>
+          <value>2</value>
+        </Value>
+        <Value>
+          <label>fehlerfrei bis zur Zahl:</label>
+          <value>3</value>
+        </Value>
+        <Value>
+          <label>nicht bzw. beginnt nicht zu zählen.</label>
+          <value>4</value>
+        </Value>
+      </Values>
+    </Variable>
+    <Variable id="text-field_1772442872026_1" alias="text-field_1" type="string" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="text_1764841311208_1" alias="text_5" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="checkbox_1764841389208_1" alias="fehler_1" type="boolean" format="" nullable="false" multiple="false" page="">
+      <Values complete="true">
+        <Value>
+          <label>Angekreuzt: Kind beginnt ab der 1 zu zählen</label>
+          <value>true</value>
+        </Value>
+        <Value>
+          <label>Nicht Angekreuzt: Kind beginnt ab der 1 zu zählen</label>
+          <value>false</value>
+        </Value>
+      </Values>
+    </Variable>
+    <Variable id="checkbox_1764841408089_1" alias="fehler_2" type="boolean" format="" nullable="false" multiple="false" page="">
+      <Values complete="true">
+        <Value>
+          <label>Angekreuzt: Übersehen einer Zahl (z. B. 10, 11, _, 12, 13 ...)</label>
+          <value>true</value>
+        </Value>
+        <Value>
+          <label>Nicht Angekreuzt: Übersehen einer Zahl (z. B. 10, 11, _, 12, 13 ...)</label>
+          <value>false</value>
+        </Value>
+      </Values>
+    </Variable>
+    <Variable id="checkbox_1767008591760_1" alias="fehler_3" type="boolean" format="" nullable="false" multiple="false" page="">
+      <Values complete="true">
+        <Value>
+          <label>Angekreuzt: Weiterzählen mit falscher Zehnerzahl (z. B. 38, 39, 50, 51 ...)</label>
+          <value>true</value>
+        </Value>
+        <Value>
+          <label>Nicht Angekreuzt: Weiterzählen mit falscher Zehnerzahl (z. B. 38, 39, 50, 51 ...)</label>
+          <value>false</value>
+        </Value>
+      </Values>
+    </Variable>
+    <Variable id="checkbox_1767008631094_1" alias="fehler_4" type="boolean" format="" nullable="false" multiple="false" page="">
+      <Values complete="true">
+        <Value>
+          <label>Angekreuzt: falsche (eigene) Zahlwortbildungen (z. B. zehnundzwanzig, elfundzwanzig ...)</label>
+          <value>true</value>
+        </Value>
+        <Value>
+          <label>Nicht Angekreuzt: falsche (eigene) Zahlwortbildungen (z. B. zehnundzwanzig, elfundzwanzig ...)</label>
+          <value>false</value>
+        </Value>
+      </Values>
+    </Variable>
+    <Variable id="checkbox_1767008652807_1" alias="fehler_5" type="boolean" format="" nullable="false" multiple="false" page="">
+      <Values complete="true">
+        <Value>
+          <label>Angekreuzt: Weiterzählen mit Zehnern (z. B. 19, 20, 30, 40 ...)</label>
+          <value>true</value>
+        </Value>
+        <Value>
+          <label>Nicht Angekreuzt: Weiterzählen mit Zehnern (z. B. 19, 20, 30, 40 ...)</label>
+          <value>false</value>
+        </Value>
+      </Values>
+    </Variable>
+    <Variable id="checkbox_1767009778741_1" alias="fehler_6" type="boolean" format="" nullable="false" multiple="false" page="">
+      <Values complete="true">
+        <Value>
+          <label>Angekreuzt: Verwechslung der Endsilben (z. B. vierzehn, fünfzehn, sechzig, siebzig ...)</label>
+          <value>true</value>
+        </Value>
+        <Value>
+          <label>Nicht Angekreuzt: Verwechslung der Endsilben (z. B. vierzehn, fünfzehn, sechzig, siebzig ...)</label>
+          <value>false</value>
+        </Value>
+      </Values>
+    </Variable>
+    <Variable id="checkbox_1767009809957_1" alias="fehler_7" type="boolean" format="" nullable="false" multiple="false" page="">
+      <Values complete="true">
+        <Value>
+          <label>Angekreuzt: Anderer Fehler</label>
+          <value>true</value>
+        </Value>
+        <Value>
+          <label>Nicht Angekreuzt: Anderer Fehler</label>
+          <value>false</value>
+        </Value>
+      </Values>
+    </Variable>
+  </BaseVariables>
+  <CodingSchemeRef schemer="iqb-schemer@2.1" lastChange="2025-07-17T06:55:38.303Z"/>
+</Unit>

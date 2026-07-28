@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<Unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/iqb-berlin/testcenter/17.4.1/definitions/vo_Unit.xsd">
+  <Metadata lastChange="2026-07-02T12:25:18.003Z">
+    <Id>S1_4_BB_02</Id>
+    <Label>Buchstabentafel 2 (Protokollbogen für IEA)</Label>
+    <Reference>S1_4_BB_02.vomd</Reference>
+  </Metadata>
+  <DefinitionRef player="iqb-player-aspect@2.12" editor="iqb-editor-aspect@2.12" lastChange="2026-07-02T12:47:46.959Z">S1_4_BB_02.voud</DefinitionRef>
+  <BaseVariables>
+    <Variable id="text_1782845657416_1" alias="text_3" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="image_1782331448018_1" alias="image_20" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="image_1782331448018_2" alias="image_21" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="image_1782331448018_3" alias="image_22" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="image_1782331448018_4" alias="image_23" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="image_1782331448018_5" alias="image_24" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="image_1782331448018_6" alias="image_25" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="image_1782331448018_7" alias="image_26" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="radio_1782331448018_1" alias="BB_I" type="integer" format="" nullable="false" multiple="false" page="">
+      <Values complete="true">
+        <Value>
+          <label/>
+          <value>1</value>
+        </Value>
+        <Value>
+          <label/>
+          <value>2</value>
+        </Value>
+        <Value>
+          <label>E</label>
+          <value>3</value>
+        </Value>
+        <Value>
+          <label>A</label>
+          <value>4</value>
+        </Value>
+        <Value>
+          <label>af</label>
+          <value>5</value>
+        </Value>
+      </Values>
+    </Variable>
+    <Variable id="radio_1782331448018_2" alias="BB_P" type="integer" format="" nullable="false" multiple="false" page="">
+      <Values complete="true">
+        <Value>
+          <label/>
+          <value>1</value>
+        </Value>
+        <Value>
+          <label/>
+          <value>2</value>
+        </Value>
+        <Value>
+          <label>B</label>
+          <value>3</value>
+        </Value>
+        <Value>
+          <label>D</label>
+          <value>4</value>
+        </Value>
+        <Value>
+          <label>R</label>
+          <value>5</value>
+        </Value>
+        <Value>
+          <label>T</label>
+          <value>6</value>
+        </Value>
+        <Value>
+          <label>af</label>
+          <value>7</value>
+        </Value>
+      </Values>
+    </Variable>
+    <Variable id="radio_1782331448018_3" alias="BB_X" type="integer" format="" nullable="false" multiple="false" page="">
+      <Values complete="true">
+        <Value>
+          <label/>
+          <value>1</value>
+        </Value>
+        <Value>
+          <label/>
+          <value>2</value>
+        </Value>
+        <Value>
+          <label>Y</label>
+          <value>3</value>
+        </Value>
+        <Value>
+          <label>af</label>
+          <value>4</value>
+        </Value>
+      </Values>
+    </Variable>
+    <Variable id="radio_1782331448018_4" alias="BB_T" type="integer" format="" nullable="false" multiple="false" page="">
+      <Values complete="true">
+        <Value>
+          <label/>
+          <value>1</value>
+        </Value>
+        <Value>
+          <label/>
+          <value>2</value>
+        </Value>
+        <Value>
+          <label>i</label>
+          <value>3</value>
+        </Value>
+        <Value>
+          <label>D</label>
+          <value>4</value>
+        </Value>
+        <Value>
+          <label>K</label>
+          <value>5</value>
+        </Value>
+        <Value>
+          <label>P</label>
+          <value>6</value>
+        </Value>
+        <Value>
+          <label>af</label>
+          <value>7</value>
+        </Value>
+      </Values>
+    </Variable>
+    <Variable id="radio_1782331448018_5" alias="BB_L" type="integer" format="" nullable="false" multiple="false" page="">
+      <Values complete="true">
+        <Value>
+          <label/>
+          <value>1</value>
+        </Value>
+        <Value>
+          <label/>
+          <value>2</value>
+        </Value>
+        <Value>
+          <label>i</label>
+          <value>3</value>
+        </Value>
+        <Value>
+          <label>N</label>
+          <value>4</value>
+        </Value>
+        <Value>
+          <label>E</label>
+          <value>5</value>
+        </Value>
+        <Value>
+          <label>af</label>
+          <value>6</value>
+        </Value>
+      </Values>
+    </Variable>
+    <Variable id="radio_1782331448018_6" alias="BB_U" type="integer" format="" nullable="false" multiple="false" page="">
+      <Values complete="true">
+        <Value>
+          <label/>
+          <value>1</value>
+        </Value>
+        <Value>
+          <label/>
+          <value>2</value>
+        </Value>
+        <Value>
+          <label>O</label>
+          <value>3</value>
+        </Value>
+        <Value>
+          <label>af</label>
+          <value>4</value>
+        </Value>
+      </Values>
+    </Variable>
+  </BaseVariables>
+  <CodingSchemeRef schemer="iqb-schemer@2.1" schemeType="iqb@3.0" lastChange="2026-06-30T07:11:21.146Z">S1_4_BB_02.vocs</CodingSchemeRef>
+</Unit>

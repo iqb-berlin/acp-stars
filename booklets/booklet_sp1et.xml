@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Booklet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/iqb-berlin/testcenter/17.4.1/definitions/vo_Booklet.xsd">
+  <Metadata>
+    <Id>booklet1</Id>
+    <Label>Testheft 1</Label>
+  </Metadata>
+  <BookletConfig/>
+  <Units>
+    <Unit id="S1_4_Satz" label="begleitende Beobachtung (Protokollbogen für IEA)" labelshort="1"/>
+    <Unit id="S1_4_BB_02" label="Buchstabentafel 2 (Protokollbogen für IEA)" labelshort="2"/>
+    <Unit id="S1_4_BB_03" label="Buchstabentafel 3 (Protokollbogen für IEA)" labelshort="3"/>
+    <Unit id="S1_4_BB_01" label="Buchstabentafel 1 (Protokollbogen für IEA)" labelshort="4"/>
+  </Units>
+</Booklet>

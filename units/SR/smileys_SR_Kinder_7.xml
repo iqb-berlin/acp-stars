@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/iqb-berlin/testcenter/17.4.1/definitions/vo_Unit.xsd">
+  <Metadata lastChange="2026-05-26T11:26:38.731Z">
+    <Id>smileys_SR_Kinder_7</Id>
+    <Label>Selbsteinschätzung_Selbstregulation </Label>
+    <Reference>smileys_SR_Kinder_7.vomd</Reference>
+  </Metadata>
+  <DefinitionRef player="iqb-player-stars@0.6" editor="iqb-editor-stars@0.1.2-beta" lastChange="2026-05-27T10:12:24.957Z">smileys_SR_Kinder_7.voud</DefinitionRef>
+</Unit>
