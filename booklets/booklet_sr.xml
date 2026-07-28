@@ -1,11 +1,38 @@
 <?xml version="1.0"?>
 <Booklet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/iqb-berlin/testcenter/17.4.1/definitions/vo_Booklet.xsd">
   <Metadata>
-    <Id>booklet1</Id>
-    <Label>Testheft 1</Label>
+    <Id>booklet_sr</Id>
+    <Label>Testheft Selbstregulation</Label>
   </Metadata>
-  <BookletConfig/>
+  <BookletConfig>
+    <Config key="header_hidden">TRUE</Config>
+    <Config key="unit_navibuttons">OFF</Config>
+    <Config key="unit_screenheader">OFF</Config>
+    <Config key="toolbar_show_unit_title">FALSE</Config>
+  </BookletConfig>
   <Units>
-    <Unit id="smileys_SR_Kinder" label="Selbsteinschätzung_Selbstregulation " labelshort="1"/>
+    <Unit id="smileys_SR_Kinder_1" label="Selbsteinschätzung_Selbstregulation " labelshort="1"/>
+    <Unit id="smileys_SR_Kinder_2" label="Selbsteinschätzung_Selbstregulation " labelshort="2"/>
+    <Unit id="smileys_SR_Kinder_3" label="Selbsteinschätzung_Selbstregulation " labelshort="3"/>
+    <Unit id="smileys_SR_Kinder_4" label="Selbsteinschätzung_Selbstregulation " labelshort="4"/>
+    <Unit id="smileys_SR_Kinder_5" label="Selbsteinschätzung_Selbstregulation " labelshort="5"/>
+    <Unit id="smileys_SR_Kinder_6" label="Selbsteinschätzung_Selbstregulation " labelshort="6"/>
+    <Unit id="smileys_SR_Kinder_7" label="Selbsteinschätzung_Selbstregulation " labelshort="7"/>
+    <Unit id="smileys_SR_Kinder_8" label="Selbsteinschätzung_Selbstregulation " labelshort="8"/>
+    <Unit id="smileys_SR_Kinder_9" label="Selbsteinschätzung_Selbstregulation " labelshort="9"/>
+    <Unit id="smileys_SR_Kinder_10" label="Selbsteinschätzung_Selbstregulation " labelshort="10"/>
+    <Unit id="smileys_SR_Kinder_11" label="Selbsteinschätzung_Selbstregulation " labelshort="11"/>
+    <Unit id="smileys_SR_Kinder_12" label="Selbsteinschätzung_Selbstregulation " labelshort="12"/>
+    <Unit id="smileys_SR_Kinder_13" label="Selbsteinschätzung_Selbstregulation " labelshort="13"/>
+    <Unit id="smileys_SR_Kinder_14" label="Selbsteinschätzung_Selbstregulation " labelshort="14"/>
+    <Unit id="smileys_SR_Kinder_15" label="Selbsteinschätzung_Selbstregulation " labelshort="15"/>
+    <Unit id="smileys_SR_Kinder_16" label="Selbsteinschätzung_Selbstregulation " labelshort="16"/>
+    <Unit id="smileys_SR_Kinder_17" label="Selbsteinschätzung_Selbstregulation " labelshort="17"/>
+    <Unit id="smileys_SR_Kinder_18" label="Selbsteinschätzung_Selbstregulation " labelshort="18"/>
+    <Unit id="smileys_SR_Kinder_19" label="Selbsteinschätzung_Selbstregulation " labelshort="19"/>
+    <Unit id="smileys_SR_Kinder_20" label="Selbsteinschätzung_Selbstregulation " labelshort="20"/>
+    <Unit id="smileys_SR_Kinder_21" label="Selbsteinschätzung_Selbstregulation " labelshort="21"/>
+    <Unit id="smileys_SR_Kinder_22" label="Selbsteinschätzung_Selbstregulation " labelshort="22"/>
+    <Unit id="smileys_SR_Kinder_23" label="Selbsteinschätzung_Selbstregulation " labelshort="23"/>
   </Units>
 </Booklet>

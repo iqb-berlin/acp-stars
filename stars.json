@@ -126,748 +126,914 @@
           "id": "RH_S_1",
           "name": "RH_S_1",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/RH_S_1.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/RH_S_1.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "RH_S_2",
           "name": "RH_S_2",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/RH_S_2.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/RH_S_2.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "RH_S_3",
           "name": "RH_S_3",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/RH_S_3.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/RH_S_3.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "RH_S_4",
           "name": "RH_S_4",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/RH_S_4.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/RH_S_4.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "RH_S_5",
           "name": "RH_S_5",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/RH_S_5.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/RH_S_5.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "RH_S_6",
           "name": "RH_S_6",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/RH_S_6.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/RH_S_6.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "but_multi_2row_1",
           "name": "S_2_SR",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/but_multi_2row_1.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/but_multi_2row_1.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "but_multi_2row_10",
           "name": "S_2_SR",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/but_multi_2row_10.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/but_multi_2row_10.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "but_multi_2row_2",
           "name": "S_2_SR",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/but_multi_2row_2.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/but_multi_2row_2.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "but_multi_2row_3",
           "name": "S_2_SR",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/but_multi_2row_3.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/but_multi_2row_3.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "but_multi_2row_4",
           "name": "S_2_SR",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/but_multi_2row_4.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/but_multi_2row_4.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "but_multi_2row_5",
           "name": "S_2_SR",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/but_multi_2row_5.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/but_multi_2row_5.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "but_multi_2row_6",
           "name": "S_2_SR",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/but_multi_2row_6.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/but_multi_2row_6.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "but_multi_2row_7",
           "name": "S_2_SR",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/but_multi_2row_7.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/but_multi_2row_7.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "but_multi_2row_8",
           "name": "S_2_SR",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/but_multi_2row_8.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/but_multi_2row_8.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "but_multi_2row_9",
           "name": "S_2_SR",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/but_multi_2row_9.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/but_multi_2row_9.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "but_multi_2row_UE",
           "name": "S_2_SR",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/but_multi_2row_UE.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/but_multi_2row_UE.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "dnd_Koffer_1",
           "name": "S1_1_AE",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/dnd_Koffer_1.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/dnd_Koffer_1.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "dnd_Koffer_2",
           "name": "S1_1_AE",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/dnd_Koffer_2.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/dnd_Koffer_2.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "dnd_Koffer_3",
           "name": "S1_1_AE",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/dnd_Koffer_3.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/dnd_Koffer_3.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "dnd_Koffer_4",
           "name": "S1_1_AE",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/dnd_Koffer_4.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/dnd_Koffer_4.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "dnd_Koffer_5",
           "name": "S1_1_AE",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/dnd_Koffer_5.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/dnd_Koffer_5.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "dnd_Koffer_6",
           "name": "S1_1_AE",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/dnd_Koffer_6.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/dnd_Koffer_6.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "dnd_Koffer_7",
           "name": "S1_1_AE",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/dnd_Koffer_7.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/dnd_Koffer_7.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "dnd_Koffer_8",
           "name": "S1_1_AE",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/dnd_Koffer_8.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/dnd_Koffer_8.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "dnd_Koffer_9",
           "name": "S1_1_AE",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/dnd_Koffer_9.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/dnd_Koffer_9.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "dnd_Koffer_UE",
           "name": "S1_1_AE",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/dnd_Koffer_UE.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/dnd_Koffer_UE.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_1",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_1.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_1.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_10",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_10.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_10.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_11",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_11.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_11.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_12",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_12.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_12.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_13",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_13.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_13.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_14",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_14.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_14.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_15",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_15.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_15.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_16",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_16.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_16.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_17",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_17.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_17.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_18",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_18.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_18.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_19",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_19.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_19.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_2",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_2.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_2.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_20",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_20.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_20.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_21",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_21.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_21.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_22",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_22.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_22.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_23",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_23.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_23.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_24",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_24.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_24.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_25",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_25.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_25.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_26",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_26.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_26.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_27",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_27.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_27.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_28",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_28.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_28.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_29",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_29.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_29.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_3",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_3.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_3.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_30",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_30.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_30.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_31",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_31.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_31.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_32",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_32.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_32.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_33",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_33.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_33.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_34",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_34.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_34.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_35",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_35.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_35.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_36",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_36.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_36.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_37",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_37.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_37.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_38",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_38.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_38.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_39",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_39.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_39.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_4",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_4.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_4.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_40",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_40.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_40.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_41",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_41.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_41.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_42",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_42.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_42.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_5",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_5.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_5.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_6",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_6.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_6.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_7",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_7.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_7.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_8",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_8.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_8.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_9",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_9.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_9.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_UE_1",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_UE_1.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_UE_1.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_UE_2",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_UE_2.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_UE_2.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_UE_3",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_UE_3.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_UE_3.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vfauvertical_UE_4",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vfauvertical_UE_4.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vfauvertical_UE_4.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vid_1",
           "name": "Video",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vid_1.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vid_1.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vid_2",
           "name": "Video",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vid_2.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vid_2.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vid_3",
           "name": "Video",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vid_3.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vid_3.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vid_4",
           "name": "Video",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vid_4.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vid_4.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vid_5",
           "name": "Video",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vid_5.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vid_5.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vid_6",
           "name": "Video",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vid_6.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vid_6.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "vid_7",
           "name": "Video",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/vid_7.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Sp1/vid_7.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
         },
         {
           "id": "iqb-player-lottie@1.2",
           "name": "Lottie Player",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/player/iqb-player-lottie-1.2.3.html",
-            "type": "PLAYER"
-          }
+          "dependencies": [
+            {
+              "id": "./units/player/iqb-player-lottie-1.2.3.html",
+              "type": "PLAYER"
+            }
+          ]
         },
         {
           "id": "iqb-player-stars@0.6",
           "name": "Stars Player",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/player/iqb-player-stars-0.6.42.html",
-            "type": "PLAYER"
-          }
+          "dependencies": [
+            {
+              "id": "./units/player/iqb-player-stars-0.6.42.html",
+              "type": "PLAYER"
+            }
+          ]
         },
         {
           "id": "avatar.itcr",
           "name": "Lottie Avatare",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/player/avatar.itcr.zip",
-            "type": "PLAYER_DEPENDENCY"
-          }
+          "dependencies": [
+            {
+              "id": "./units/player/avatar.itcr.zip",
+              "type": "PLAYER_DEPENDENCY"
+            }
+          ]
         }
       ],
       "bookletModules": [
@@ -1440,24 +1606,1299 @@
       },
       "units": [
         {
-          "id": "RH_S_1",
-          "name": "RH_S_1",
+          "id": "RH_M_1",
+          "name": "RH_M_1",
           "lang": "de",
-          "dependencies": {
-            "id": "./units/Sp1/RH_S_1.voud",
-            "type": "UNIT_UI_DEFINITION"
-          }
+          "dependencies": [
+            {
+              "id": "./units/Ma1/RH_M_1.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "RH_M_2",
+          "name": "RH_M_2",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/RH_M_2.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "RH_M_3",
+          "name": "RH_M_3",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/RH_M_3.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "RH_M_4",
+          "name": "RH_M_4",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/RH_M_4.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "RH_M_5",
+          "name": "RH_M_5",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/RH_M_5.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "RH_M_6",
+          "name": "RH_M_6",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/RH_M_6.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "blitzsehen_1",
+          "name": "M1_3_g; M1_3_h",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/blitzsehen_1.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "blitzsehen_2",
+          "name": "M1_3_g; M1_3_h",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/blitzsehen_2.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "blitzsehen_3",
+          "name": "M1_3_g; M1_3_h",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/blitzsehen_3.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "blitzsehen_4",
+          "name": "M1_3_g; M1_3_h",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/blitzsehen_4.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "blitzsehen_5",
+          "name": "M1_3_g; M1_3_h",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/blitzsehen_5.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "blitzsehen_6",
+          "name": "M1_3_g; M1_3_h",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/blitzsehen_6.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "blitzsehen_7",
+          "name": "M1_3_g; M1_3_h",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/blitzsehen_7.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "blitzsehen_8",
+          "name": "M1_3_g; M1_3_h",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/blitzsehen_8.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "blitzsehen_9",
+          "name": "M1_3_g; M1_3_h",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/blitzsehen_9.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "blitzsehen_UE",
+          "name": "M1_3_g; M1_3_h",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/blitzsehen_UE.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "but_row_audio_MK_01",
+          "name": "M1_4_a_A_HZ; M1_4_a_A_VE;M1_4_a_S_AZ;M1_4_a_S_VG",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/but_row_audio_MK_01.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "but_row_audio_MK_02",
+          "name": "M1_4_a_A_HZ; M1_4_a_A_VE;M1_4_a_S_AZ;M1_4_a_S_VG",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/but_row_audio_MK_02.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "but_row_audio_MK_03",
+          "name": "M1_4_a_A_HZ; M1_4_a_A_VE;M1_4_a_S_AZ;M1_4_a_S_VG",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/but_row_audio_MK_03.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "but_row_audio_MK_04",
+          "name": "M1_4_a_A_HZ; M1_4_a_A_VE;M1_4_a_S_AZ;M1_4_a_S_VG",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/but_row_audio_MK_04.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "but_row_audio_MK_05",
+          "name": "M1_4_a_A_HZ; M1_4_a_A_VE;M1_4_a_S_AZ;M1_4_a_S_VG",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/but_row_audio_MK_05.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "but_row_audio_MK_06",
+          "name": "M1_4_a_A_HZ; M1_4_a_A_VE;M1_4_a_S_AZ;M1_4_a_S_VG",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/but_row_audio_MK_06.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "but_row_audio_MK_07",
+          "name": "M1_4_a_A_HZ; M1_4_a_A_VE;M1_4_a_S_AZ;M1_4_a_S_VG",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/but_row_audio_MK_07.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "but_row_audio_MK_08",
+          "name": "M1_4_a_A_HZ; M1_4_a_A_VE;M1_4_a_S_AZ;M1_4_a_S_VG",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/but_row_audio_MK_08.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "but_row_audio_MK_09",
+          "name": "M1_4_a_A_HZ; M1_4_a_A_VE;M1_4_a_S_AZ;M1_4_a_S_VG",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/but_row_audio_MK_09.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "but_row_audio_MK_10",
+          "name": "M1_4_a_A_HZ; M1_4_a_A_VE;M1_4_a_S_AZ;M1_4_a_S_VG",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/but_row_audio_MK_10.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "dnd_Muscheln_1",
+          "name": "M1_4_b_ZuZ",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/dnd_Muscheln_1.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "dnd_Muscheln_2",
+          "name": "M1_4_b_ZuZ",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/dnd_Muscheln_2.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "forms_1",
+          "name": "M1_5_b",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/forms_1.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "forms_2",
+          "name": "M1_5_b",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/forms_2.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "leftpic_scpic_1",
+          "name": "M1_1b_a",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/leftpic_scpic_1.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "leftpic_scpic_2",
+          "name": "M1_1b_a",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/leftpic_scpic_2.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "leftpic_scpic_UE",
+          "name": "M1_1b_a",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/leftpic_scpic_UE.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "squarepic_4scrow400_1",
+          "name": "M1_3_c;  M1_3_d",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/squarepic_4scrow400_1.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "squarepic_4scrow400_2",
+          "name": "M1_3_c;  M1_3_d",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/squarepic_4scrow400_2.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "squarepic_4scrow400_3",
+          "name": "M1_3_c;  M1_3_d",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/squarepic_4scrow400_3.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "squarepic_4scrow400_4",
+          "name": "M1_3_c;  M1_3_d",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/squarepic_4scrow400_4.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "squarepic_4scrow400_5",
+          "name": "M1_3_c;  M1_3_d",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/squarepic_4scrow400_5.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "squarepic_4scrow400_6",
+          "name": "M1_3_c;  M1_3_d",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/squarepic_4scrow400_6.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "squarepic_4scrow400_7",
+          "name": "M1_3_c;  M1_3_d",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/squarepic_4scrow400_7.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "squarepic_4scrow400_8",
+          "name": "M1_3_c;  M1_3_d",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/squarepic_4scrow400_8.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "squarepic_4scrow83_1",
+          "name": "M1_1b_c; M1_5_a",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/squarepic_4scrow83_1.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "squarepic_4scrow83_2",
+          "name": "M1_1b_c; M1_5_a",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/squarepic_4scrow83_2.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "squarepic_4scrow83_3",
+          "name": "M1_1b_c; M1_5_a",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/squarepic_4scrow83_3.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "squarepic_4scrow83_4",
+          "name": "M1_1b_c; M1_5_a",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/squarepic_4scrow83_4.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "squarepic_4scrow83_5",
+          "name": "M1_1b_c; M1_5_a",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/squarepic_4scrow83_5.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "toppic_4scrow350_1",
+          "name": "M1_3_e",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/toppic_4scrow350_1.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "toppic_4scrow350_2",
+          "name": "M1_3_e",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/toppic_4scrow350_2.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "toppic_4scrow350_3",
+          "name": "M1_3_e",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/toppic_4scrow350_3.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "toppic_4scrow350_4",
+          "name": "M1_3_e",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/toppic_4scrow350_4.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "twochoiceonly_rl_1",
+          "name": "M1_1b_b, M2_1b_b",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/twochoiceonly_rl_1.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "twochoiceonly_rl_2",
+          "name": "M1_1b_b, M2_1b_b",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/twochoiceonly_rl_2.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "twochoiceonly_rl_3",
+          "name": "M1_1b_b, M2_1b_b",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/twochoiceonly_rl_3.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "twochoiceonly_rl_4",
+          "name": "M1_1b_b, M2_1b_b",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/twochoiceonly_rl_4.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "twochoiceonly_rl_5",
+          "name": "M1_1b_b, M2_1b_b",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/twochoiceonly_rl_5.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "twochoiceonly_rl_6",
+          "name": "M1_1b_b, M2_1b_b",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/twochoiceonly_rl_6.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "twochoiceonly_rl_7",
+          "name": "M1_1b_b, M2_1b_b",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/twochoiceonly_rl_7.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "twochoiceonly_rl_8",
+          "name": "M1_1b_b, M2_1b_b",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/twochoiceonly_rl_8.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "vfauvertical_UE_1",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/vfauvertical_UE_1.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "vfauvertical_UE_2",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/vfauvertical_UE_2.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "vfauvertical_UE_3",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/vfauvertical_UE_3.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "vfauvertical_UE_4",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/vfauvertical_UE_4.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "vfauvertical_UE_5",
+          "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/vfauvertical_UE_5.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "vid_1",
+          "name": "Video",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/vid_1.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "vid_2",
+          "name": "Video",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/vid_2.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "vid_3",
+          "name": "Video",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/vid_3.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "vid_4",
+          "name": "Video",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/vid_4.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "vid_5",
+          "name": "Video",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/vid_5.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "vierfelderAudio_Row_1",
+          "name": "M1_2_a",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/vierfelderAudio_Row_1.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "vierfelderAudio_Row_2",
+          "name": "M1_2_a",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/vierfelderAudio_Row_2.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "vierfelderAudio_Row_3",
+          "name": "M1_2_a",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/vierfelderAudio_Row_3.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "vierfelderAudio_Row_4",
+          "name": "M1_2_a",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/Ma1/vierfelderAudio_Row_4.voud",
+              "type": "UNIT_UI_DEFINITION"
+            }
+          ]
+        },
+        {
+          "id": "iqb-player-lottie@1.2",
+          "name": "Lottie Player",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/player/iqb-player-lottie-1.2.3.html",
+              "type": "PLAYER"
+            }
+          ]
+        },
+        {
+          "id": "iqb-player-stars@0.6",
+          "name": "Stars Player",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/player/iqb-player-stars-0.6.42.html",
+              "type": "PLAYER"
+            }
+          ]
+        },
+        {
+          "id": "avatar.itcr",
+          "name": "Lottie Avatare",
+          "lang": "de",
+          "dependencies": [
+            {
+              "id": "./units/player/avatar.itcr.zip",
+              "type": "PLAYER_DEPENDENCY"
+            }
+          ]
         }
       ],
       "bookletModules": [
         {
-          "id": "sp1-m1",
-          "name": "StarS Sprache 1",
+          "id": "ma1-m1",
+          "name": "StarS Mathe 1 Modul 1",
           "lang": "de",
           "units": [
             {
-              "id": "RH_S_1",
+              "id": "vid_1",
               "order": 1
+            },
+            {
+              "id": "leftpic_scpic_UE",
+              "order": 2
+            },
+            {
+              "id": "leftpic_scpic_1",
+              "order": 3
+            },
+            {
+              "id": "leftpic_scpic_2",
+              "order": 4
+            },
+            {
+              "id": "twochoiceonly_rl_1",
+              "order": 5
+            },
+            {
+              "id": "twochoiceonly_rl_2",
+              "order": 6
+            },
+            {
+              "id": "twochoiceonly_rl_3",
+              "order": 7
+            },
+            {
+              "id": "twochoiceonly_rl_4",
+              "order": 8
+            },
+            {
+              "id": "twochoiceonly_rl_5",
+              "order": 9
+            },
+            {
+              "id": "twochoiceonly_rl_6",
+              "order": 10
+            },
+            {
+              "id": "twochoiceonly_rl_7",
+              "order": 11
+            },
+            {
+              "id": "twochoiceonly_rl_8",
+              "order": 12
+            },
+            {
+              "id": "squarepic_4scrow83_1",
+              "order": 13
+            },
+            {
+              "id": "squarepic_4scrow83_2",
+              "order": 14
+            },
+            {
+              "id": "vierfelderAudio_Row_1",
+              "order": 15
+            },
+            {
+              "id": "vierfelderAudio_Row_2",
+              "order": 16
+            },
+            {
+              "id": "vierfelderAudio_Row_3",
+              "order": 17
+            },
+            {
+              "id": "vierfelderAudio_Row_4",
+              "order": 18
+            }
+          ]
+        },
+        {
+          "id": "ma1-m2",
+          "name": "StarS Mathe 1 Modul 2",
+          "lang": "de",
+          "units": [
+            {
+              "id": "squarepic_4scrow400_1",
+              "order": 1
+            },
+            {
+              "id": "squarepic_4scrow400_2",
+              "order": 2
+            },
+            {
+              "id": "squarepic_4scrow400_3",
+              "order": 3
+            },
+            {
+              "id": "squarepic_4scrow400_4",
+              "order": 4
+            },
+            {
+              "id": "squarepic_4scrow400_5",
+              "order": 5
+            },
+            {
+              "id": "squarepic_4scrow400_6",
+              "order": 6
+            },
+            {
+              "id": "squarepic_4scrow400_7",
+              "order": 7
+            },
+            {
+              "id": "squarepic_4scrow400_8",
+              "order": 8
+            },
+            {
+              "id": "toppic_4scrow350_1",
+              "order": 9
+            },
+            {
+              "id": "toppic_4scrow350_2",
+              "order": 10
+            },
+            {
+              "id": "toppic_4scrow350_3",
+              "order": 11
+            },
+            {
+              "id": "toppic_4scrow350_4",
+              "order": 12
+            }
+          ]
+        },
+        {
+          "id": "ma1-m3",
+          "name": "StarS Mathe 1 Modul 3",
+          "lang": "de",
+          "units": [
+            {
+              "id": "vid_2",
+              "order": 1
+            },
+            {
+              "id": "vfauvertical_UE_1",
+              "order": 2
+            },
+            {
+              "id": "vfauvertical_UE_2",
+              "order": 3
+            },
+            {
+              "id": "vfauvertical_UE_3",
+              "order": 4
+            },
+            {
+              "id": "vfauvertical_UE_4",
+              "order": 5
+            },
+            {
+              "id": "vid_3",
+              "order": 6
+            },
+            {
+              "id": "vfauvertical_UE_5",
+              "order": 7
+            },
+            {
+              "id": "but_row_audio_MK_01",
+              "order": 8
+            },
+            {
+              "id": "but_row_audio_MK_02",
+              "order": 9
+            },
+            {
+              "id": "but_row_audio_MK_03",
+              "order": 10
+            },
+            {
+              "id": "but_row_audio_MK_04",
+              "order": 11
+            },
+            {
+              "id": "but_row_audio_MK_05",
+              "order": 12
+            },
+            {
+              "id": "but_row_audio_MK_06",
+              "order": 13
+            },
+            {
+              "id": "but_row_audio_MK_07",
+              "order": 14
+            },
+            {
+              "id": "but_row_audio_MK_08",
+              "order": 15
+            },
+            {
+              "id": "but_row_audio_MK_09",
+              "order": 16
+            },
+            {
+              "id": "but_row_audio_MK_10",
+              "order": 17
+            }
+          ]
+        },
+        {
+          "id": "ma1-m4",
+          "name": "StarS Mathe 1 Modul 4",
+          "lang": "de",
+          "units": [
+            {
+              "id": "vid_4",
+              "order": 1
+            },
+            {
+              "id": "blitzsehen_UE",
+              "order": 2
+            },
+            {
+              "id": "blitzsehen_1",
+              "order": 3
+            },
+            {
+              "id": "blitzsehen_2",
+              "order": 4
+            },
+            {
+              "id": "blitzsehen_3",
+              "order": 5
+            },
+            {
+              "id": "blitzsehen_4",
+              "order": 6
+            },
+            {
+              "id": "blitzsehen_5",
+              "order": 7
+            },
+            {
+              "id": "blitzsehen_6",
+              "order": 8
+            },
+            {
+              "id": "blitzsehen_7",
+              "order": 9
+            },
+            {
+              "id": "blitzsehen_8",
+              "order": 10
+            },
+            {
+              "id": "blitzsehen_9",
+              "order": 11
+            }
+          ]
+        },
+        {
+          "id": "ma1-m5",
+          "name": "StarS Mathe 1 Modul 5",
+          "lang": "de",
+          "units": [
+            {
+              "id": "dnd_Muscheln_1",
+              "order": 1
+            },
+            {
+              "id": "dnd_Muscheln_2",
+              "order": 2
+            },
+            {
+              "id": "squarepic_4scrow83_3",
+              "order": 3
+            },
+            {
+              "id": "squarepic_4scrow83_4",
+              "order": 4
+            },
+            {
+              "id": "vid_5",
+              "order": 5
+            },
+            {
+              "id": "forms_1",
+              "order": 6
+            },
+            {
+              "id": "forms_2",
+              "order": 7
+            }
+          ]
+        },
+        {
+          "id": "ma1-rh1",
+          "name": "StarS Mathe 1 Rahmenhandlung 1",
+          "lang": "de",
+          "units": [
+            {
+              "id": "RH_M_1",
+              "order": 1
+            }
+          ]
+        },
+        {
+          "id": "ma1-rh2",
+          "name": "StarS Mathe 1 Rahmenhandlung 2",
+          "lang": "de",
+          "units": [
+            {
+              "id": "RH_M_2",
+              "order": 1
+            }
+          ]
+        },
+        {
+          "id": "ma1-rh3",
+          "name": "StarS Mathe 1 Rahmenhandlung 3",
+          "lang": "de",
+          "units": [
+            {
+              "id": "RH_M_3",
+              "order": 1
+            }
+          ]
+        },
+        {
+          "id": "ma1-rh4",
+          "name": "StarS Mathe 1 Rahmenhandlung 4",
+          "lang": "de",
+          "units": [
+            {
+              "id": "RH_M_4",
+              "order": 1
+            }
+          ]
+        },
+        {
+          "id": "ma1-rh5",
+          "name": "StarS Mathe 1 Rahmenhandlung 5",
+          "lang": "de",
+          "units": [
+            {
+              "id": "RH_M_5",
+              "order": 1
+            }
+          ]
+        },
+        {
+          "id": "ma1-rh6",
+          "name": "StarS Mathe 1 Rahmenhandlung 6",
+          "lang": "de",
+          "units": [
+            {
+              "id": "RH_M_6",
+              "order": 1
+            }
+          ]
+        }
+      ],
+      "instruments": [
+        {
+          "id": "ma-1",
+          "name": [
+            {
+              "lang": "de",
+              "value": "StarS Mathe 1"
+            }
+          ],
+          "administrationMode": "TEST_BY_TEST_TAKER",
+          "metadata": {
+            "profileId": "https://raw.githubusercontent.com/iqb-vocabs/p44/master/index.json",
+            "entries": [
+              {
+                "id": "f0",
+                "label": [
+                  {
+                    "lang": "de",
+                    "value": "Klassenstufe"
+                  }
+                ],
+                "value": [
+                  {
+                    "id": "http://w3id.org/openeduhub/vocabs/educationalLevel/1",
+                    "label": [
+                      {
+                        "lang": "de",
+                        "value": "1"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "sb",
+                "label": [
+                  {
+                    "lang": "de",
+                    "value": "Bereich"
+                  }
+                ],
+                "value": [
+                  {
+                    "id": "https://w3id.org/iqb/v85/dt/2",
+                    "label": [
+                      {
+                        "lang": "de",
+                        "value": "Mathe"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "testcenterBooklet": [
+            {
+              "definitionId": "./booklets/booklet_ma1g.xml",
+              "lang": "de",
+              "modules": [
+                {
+                  "moduleId": "ma1-rh1",
+                  "order": 1
+                },
+                {
+                  "moduleId": "ma1-m1",
+                  "order": 2
+                },
+                {
+                  "moduleId": "ma1-rh2",
+                  "order": 3
+                },
+                {
+                  "moduleId": "ma1-m2",
+                  "order": 4
+                },
+                {
+                  "moduleId": "ma1-rh3",
+                  "order": 5
+                },
+                {
+                  "moduleId": "ma1-m3",
+                  "order": 6
+                },
+                {
+                  "moduleId": "ma1-rh4",
+                  "order": 7
+                },
+                {
+                  "moduleId": "ma1-m4",
+                  "order": 8
+                },
+                {
+                  "moduleId": "ma1-rh5",
+                  "order": 9
+                },
+                {
+                  "moduleId": "ma1-m5",
+                  "order": 10
+                },
+                {
+                  "moduleId": "ma1-rh6",
+                  "order": 11
+                }
+              ]
             }
           ]
         }
