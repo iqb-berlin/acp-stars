@@ -104,7 +104,7 @@
             "label": [
               {
                 "lang": "de",
-                "value": "Bereich"
+                "value": "Domäne"
               }
             ],
             "value": [
@@ -1473,7 +1473,7 @@
                 "label": [
                   {
                     "lang": "de",
-                    "value": "Bereich"
+                    "value": "Domäne"
                   }
                 ],
                 "value": [
@@ -1587,16 +1587,16 @@
             "label": [
               {
                 "lang": "de",
-                "value": "Bereich"
+                "value": "Domäne"
               }
             ],
             "value": [
               {
-                "id": "https://w3id.org/iqb/v85/dt/1",
+                "id": "https://w3id.org/iqb/v85/dt/2",
                 "label": [
                   {
                     "lang": "de",
-                    "value": "Mathe"
+                    "value": "Mathematik"
                   }
                 ]
               }
@@ -2832,7 +2832,7 @@
                 "label": [
                   {
                     "lang": "de",
-                    "value": "Bereich"
+                    "value": "Domäne"
                   }
                 ],
                 "value": [
@@ -2841,7 +2841,7 @@
                     "label": [
                       {
                         "lang": "de",
-                        "value": "Mathe"
+                        "value": "Mathematik"
                       }
                     ]
                   }
