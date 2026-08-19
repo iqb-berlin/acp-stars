@@ -2902,6 +2902,56 @@
             }
           ]
         }
+      ],
+      "scales": [
+        {
+          "id": "wortschatzumfang",
+          "name": [
+            {
+              "lang": "de",
+              "value": "Wortschatzumfang"
+            }
+          ],
+          "description": [
+            {
+              "lang": "de",
+              "value": "Demo Skala vom Typ 'BASE' für Lösungshäufigkeit (Prozent) Wortschatzumfang"
+            }
+          ],
+          "scaleType": "BASE",
+          "typeParameters": {
+            "method": "SCORE_RATIO",
+            "methodParameters": {
+              "maxValue": 8
+            },
+            "items": [
+              {
+                "id": "vfauvertical_1.interact"
+              },
+              {
+                "id": "vfauvertical_2.interact"
+              },
+              {
+                "id": "vfauvertical_3.interact"
+              },
+              {
+                "id": "vfauvertical_4.interact"
+              },
+              {
+                "id": "vfauvertical_5.interact"
+              },
+              {
+                "id": "vfauvertical_6.interact"
+              },
+              {
+                "id": "vfauvertical_7.interact"
+              },
+              {
+                "id": "vfauvertical_8.interact"
+              }
+            ]
+          }
+        }
       ]
     }
   ]
