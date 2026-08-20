@@ -1107,6 +1107,31 @@
           "id": "sp1-m1",
           "name": "StarS Sprache 1 Modul 1",
           "lang": "de",
+          "metadata": {
+            "profileId": "https://raw.githubusercontent.com/iqb-vocabs/p44/master/index.json",
+            "entries": [
+              {
+                "id": "sb",
+                "label": [
+                  {
+                    "lang": "de",
+                    "value": "Subdomäne"
+                  }
+                ],
+                "value": [
+                  {
+                    "id": "https://w3id.org/iqb/v85/sd/1",
+                    "label": [
+                      {
+                        "lang": "de",
+                        "value": "frühe schriftsprachliche Erfahrungen"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
           "units": [
             {
               "id": "vid_1",
@@ -1186,6 +1211,31 @@
           "id": "sp1-m2",
           "name": "StarS Sprache 1 Modul 2",
           "lang": "de",
+          "metadata": {
+            "profileId": "https://raw.githubusercontent.com/iqb-vocabs/p44/master/index.json",
+            "entries": [
+              {
+                "id": "sb",
+                "label": [
+                  {
+                    "lang": "de",
+                    "value": "Subdomäne"
+                  }
+                ],
+                "value": [
+                  {
+                    "id": "https://w3id.org/iqb/v85/sd/2",
+                    "label": [
+                      {
+                        "lang": "de",
+                        "value": "Verstehen grammatischer Strukturen"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
           "units": [
             {
               "id": "vid_3",
@@ -1260,7 +1310,7 @@
               "order": 19
             },
             {
-              "id": "vfauvertical_230",
+              "id": "vfauvertical_30",
               "order": 20
             }
           ]
@@ -1269,6 +1319,31 @@
           "id": "sp1-m3",
           "name": "StarS Sprache 1 Modul 3",
           "lang": "de",
+          "metadata": {
+            "profileId": "https://raw.githubusercontent.com/iqb-vocabs/p44/master/index.json",
+            "entries": [
+              {
+                "id": "sb",
+                "label": [
+                  {
+                    "lang": "de",
+                    "value": "Subdomäne"
+                  }
+                ],
+                "value": [
+                  {
+                    "id": "https://w3id.org/iqb/v85/sd/3",
+                    "label": [
+                      {
+                        "lang": "de",
+                        "value": "rezeptiver Wortschatz"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
           "units": [
             {
               "id": "vid_5",
@@ -1324,6 +1399,31 @@
           "id": "sp1-m4",
           "name": "StarS Sprache 1 Modul 4",
           "lang": "de",
+          "metadata": {
+            "profileId": "https://raw.githubusercontent.com/iqb-vocabs/p44/master/index.json",
+            "entries": [
+              {
+                "id": "sb",
+                "label": [
+                  {
+                    "lang": "de",
+                    "value": "Subdomäne"
+                  }
+                ],
+                "value": [
+                  {
+                    "id": "https://w3id.org/iqb/v85/sd/3",
+                    "label": [
+                      {
+                        "lang": "de",
+                        "value": "rezeptiver Wortschatz"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
           "units": [
             {
               "id": "vid_6",
@@ -1370,7 +1470,7 @@
               "order": 12
             },
             {
-              "id": "vfauvertical_340",
+              "id": "vfauvertical_40",
               "order": 13
             },
             {
@@ -1387,6 +1487,31 @@
           "id": "sp1-m5",
           "name": "StarS Sprache 1 Modul 5",
           "lang": "de",
+          "metadata": {
+            "profileId": "https://raw.githubusercontent.com/iqb-vocabs/p44/master/index.json",
+            "entries": [
+              {
+                "id": "sb",
+                "label": [
+                  {
+                    "lang": "de",
+                    "value": "Subdomäne"
+                  }
+                ],
+                "value": [
+                  {
+                    "id": "https://w3id.org/iqb/v85/sd/4",
+                    "label": [
+                      {
+                        "lang": "de",
+                        "value": "Phonologische Bewusstheit"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
           "units": [
             {
               "id": "vid_7",
@@ -2905,25 +3030,26 @@
       ],
       "scales": [
         {
-          "id": "wortschatzumfang",
+          "id": "S1_4_BID_K1_GT",
           "name": [
             {
               "lang": "de",
-              "value": "Wortschatzumfang"
+              "value": "S1_4_BID_K1_GT"
             }
           ],
           "description": [
             {
               "lang": "de",
-              "value": "Demo Skala vom Typ 'BASE' für Lösungshäufigkeit (Prozent) Wortschatzumfang"
+              "value": "Skala vom Typ 'BASE' für Lösungshäufigkeit (Prozent) Buchstabenkenntnis rezeptiv"
             }
           ],
           "scaleType": "BASE",
           "typeParameters": {
             "method": "SCORE_RATIO",
             "methodParameters": {
-              "maxValue": 8
+              "maxValue": 15
             },
+            "minItemNumber": 5,
             "items": [
               {
                 "id": "vfauvertical_1.interact"
@@ -2948,6 +3074,262 @@
               },
               {
                 "id": "vfauvertical_8.interact"
+              },
+              {
+                "id": "vfauvertical_9.interact"
+              },
+              {
+                "id": "vfauvertical_10.interact"
+              },
+              {
+                "id": "vfauvertical_11.interact"
+              },
+              {
+                "id": "vfauvertical_12.interact"
+              },
+              {
+                "id": "vfauvertical_13.interact"
+              },
+              {
+                "id": "vfauvertical_14.interact"
+              },
+              {
+                "id": "vfauvertical_15.interact"
+              }
+            ]
+          }
+        },
+        {
+          "id": "S_2_WBA_K1_GT",
+          "name": [
+            {
+              "lang": "de",
+              "value": "S_2_WBA_K1_GT"
+            }
+          ],
+          "description": [
+            {
+              "lang": "de",
+              "value": "Skala vom Typ 'BASE' für Lösungshäufigkeit (Prozent) Wortschatzumfang"
+            }
+          ],
+          "scaleType": "BASE",
+          "typeParameters": {
+            "method": "SCORE_RATIO",
+            "methodParameters": {
+              "maxValue": 15
+            },
+            "minItemNumber": 5,
+            "items": [
+              {
+                "id": "vfauvertical_16.interact"
+              },
+              {
+                "id": "vfauvertical_17.interact"
+              },
+              {
+                "id": "vfauvertical_18.interact"
+              },
+              {
+                "id": "vfauvertical_19.interact"
+              },
+              {
+                "id": "vfauvertical_20.interact"
+              },
+              {
+                "id": "vfauvertical_21.interact"
+              },
+              {
+                "id": "vfauvertical_22.interact"
+              },
+              {
+                "id": "vfauvertical_23.interact"
+              },
+              {
+                "id": "vfauvertical_24.interact"
+              },
+              {
+                "id": "vfauvertical_25.interact"
+              },
+              {
+                "id": "vfauvertical_26.interact"
+              },
+              {
+                "id": "vfauvertical_27.interact"
+              },
+              {
+                "id": "vfauvertical_28.interact"
+              },
+              {
+                "id": "vfauvertical_29.interact"
+              },
+              {
+                "id": "vfauvertical_30.interact"
+              }
+            ]
+          }
+        },
+        {
+          "id": "S_3_SBA_K1_GT",
+          "name": [
+            {
+              "lang": "de",
+              "value": "S_3_SBA_K1_GT"
+            }
+          ],
+          "description": [
+            {
+              "lang": "de",
+              "value": "Skala vom Typ 'BASE' für Lösungshäufigkeit (Prozent) Verstehen grammatischer Strukturen"
+            }
+          ],
+          "scaleType": "BASE",
+          "typeParameters": {
+            "method": "SCORE_RATIO",
+            "methodParameters": {
+              "maxValue": 11
+            },
+            "minItemNumber": 3,
+            "items": [
+              {
+                "id": "vfauvertical_31.interact"
+              },
+              {
+                "id": "vfauvertical_32.interact"
+              },
+              {
+                "id": "vfauvertical_33.interact"
+              },
+              {
+                "id": "vfauvertical_34.interact"
+              },
+              {
+                "id": "vfauvertical_35.interact"
+              },
+              {
+                "id": "vfauvertical_36.interact"
+              },
+              {
+                "id": "vfauvertical_37.interact"
+              },
+              {
+                "id": "vfauvertical_38.interact"
+              },
+              {
+                "id": "vfauvertical_39.interact"
+              },
+              {
+                "id": "vfauvertical_40.interact"
+              },
+              {
+                "id": "vfauvertical_42.interact"
+              }
+            ]
+          }
+        },
+        {
+          "id": "S_2_SR_K1_GT",
+          "name": [
+            {
+              "lang": "de",
+              "value": "S_2_SR_K1_GT"
+            }
+          ],
+          "description": [
+            {
+              "lang": "de",
+              "value": "Skala vom Typ 'BASE' für Lösungshäufigkeit (Prozent) Wortschatztiefe"
+            }
+          ],
+          "scaleType": "BASE",
+          "typeParameters": {
+            "method": "SCORE_RATIO",
+            "methodParameters": {
+              "maxValue": 10
+            },
+            "minItemNumber": 0,
+            "items": [
+              {
+                "id": "but_multi_2row_1.interact"
+              },
+              {
+                "id": "but_multi_2row_2.interact"
+              },
+              {
+                "id": "but_multi_2row_3.interact"
+              },
+              {
+                "id": "but_multi_2row_4.interact"
+              },
+              {
+                "id": "but_multi_2row_5.interact"
+              },
+              {
+                "id": "but_multi_2row_6.interact"
+              },
+              {
+                "id": "but_multi_2row_7.interact"
+              },
+              {
+                "id": "but_multi_2row_8.interact"
+              },
+              {
+                "id": "but_multi_2row_9.interact"
+              },
+              {
+                "id": "but_multi_2row_10.interact"
+              }
+            ]
+          }
+        },
+        {
+          "id": "S1_1_AE_K1_GT",
+          "name": [
+            {
+              "lang": "de",
+              "value": "S1_1_AE_K1_GT"
+            }
+          ],
+          "description": [
+            {
+              "lang": "de",
+              "value": "Skala vom Typ 'BASE' für Lösungshäufigkeit (Prozent) Anlaute erkennen"
+            }
+          ],
+          "scaleType": "BASE",
+          "typeParameters": {
+            "method": "SCORE_RATIO",
+            "methodParameters": {
+              "maxValue": 9
+            },
+            "minItemNumber": 0,
+            "items": [
+              {
+                "id": "dnd_Koffer_1.interact"
+              },
+              {
+                "id": "dnd_Koffer_2.interact"
+              },
+              {
+                "id": "dnd_Koffer_3.interact"
+              },
+              {
+                "id": "dnd_Koffer_4.interact"
+              },
+              {
+                "id": "dnd_Koffer_5.interact"
+              },
+              {
+                "id": "dnd_Koffer_6.interact"
+              },
+              {
+                "id": "dnd_Koffer_7.interact"
+              },
+              {
+                "id": "dnd_Koffer_8.interact"
+              },
+              {
+                "id": "dnd_Koffer_9.interact"
               }
             ]
           }
