@@ -86,7 +86,7 @@
     <Unit id="vid_5" label="Instruktion Video 5"/>
     <Unit id="forms_1" label="5_b 1"/>
     <Unit id="forms_2" label="5_b 2"/>
-    <Unit id="rahmenhandlung_end" label="Rahmenhandlung Ende"/>
+    <Unit id="RH_M_5" label="RH_M_5"/>
 
   </Units>
 </Booklet>
