@@ -1107,31 +1107,6 @@
           "id": "sp1-m1",
           "name": "StarS Sprache 1 Modul 1",
           "lang": "de",
-          "metadata": {
-            "profileId": "https://raw.githubusercontent.com/iqb-vocabs/p44/master/index.json",
-            "entries": [
-              {
-                "id": "sb",
-                "label": [
-                  {
-                    "lang": "de",
-                    "value": "Subdomäne"
-                  }
-                ],
-                "value": [
-                  {
-                    "id": "https://w3id.org/iqb/v85/sd/1",
-                    "label": [
-                      {
-                        "lang": "de",
-                        "value": "frühe schriftsprachliche Erfahrungen"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
           "units": [
             {
               "id": "vid_1",
@@ -1211,31 +1186,6 @@
           "id": "sp1-m2",
           "name": "StarS Sprache 1 Modul 2",
           "lang": "de",
-          "metadata": {
-            "profileId": "https://raw.githubusercontent.com/iqb-vocabs/p44/master/index.json",
-            "entries": [
-              {
-                "id": "sb",
-                "label": [
-                  {
-                    "lang": "de",
-                    "value": "Subdomäne"
-                  }
-                ],
-                "value": [
-                  {
-                    "id": "https://w3id.org/iqb/v85/sd/2",
-                    "label": [
-                      {
-                        "lang": "de",
-                        "value": "Verstehen grammatischer Strukturen"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
           "units": [
             {
               "id": "vid_3",
@@ -1319,31 +1269,6 @@
           "id": "sp1-m3",
           "name": "StarS Sprache 1 Modul 3",
           "lang": "de",
-          "metadata": {
-            "profileId": "https://raw.githubusercontent.com/iqb-vocabs/p44/master/index.json",
-            "entries": [
-              {
-                "id": "sb",
-                "label": [
-                  {
-                    "lang": "de",
-                    "value": "Subdomäne"
-                  }
-                ],
-                "value": [
-                  {
-                    "id": "https://w3id.org/iqb/v85/sd/3",
-                    "label": [
-                      {
-                        "lang": "de",
-                        "value": "rezeptiver Wortschatz"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
           "units": [
             {
               "id": "vid_5",
@@ -1399,31 +1324,6 @@
           "id": "sp1-m4",
           "name": "StarS Sprache 1 Modul 4",
           "lang": "de",
-          "metadata": {
-            "profileId": "https://raw.githubusercontent.com/iqb-vocabs/p44/master/index.json",
-            "entries": [
-              {
-                "id": "sb",
-                "label": [
-                  {
-                    "lang": "de",
-                    "value": "Subdomäne"
-                  }
-                ],
-                "value": [
-                  {
-                    "id": "https://w3id.org/iqb/v85/sd/3",
-                    "label": [
-                      {
-                        "lang": "de",
-                        "value": "rezeptiver Wortschatz"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
           "units": [
             {
               "id": "vid_6",
@@ -1487,31 +1387,6 @@
           "id": "sp1-m5",
           "name": "StarS Sprache 1 Modul 5",
           "lang": "de",
-          "metadata": {
-            "profileId": "https://raw.githubusercontent.com/iqb-vocabs/p44/master/index.json",
-            "entries": [
-              {
-                "id": "sb",
-                "label": [
-                  {
-                    "lang": "de",
-                    "value": "Subdomäne"
-                  }
-                ],
-                "value": [
-                  {
-                    "id": "https://w3id.org/iqb/v85/sd/4",
-                    "label": [
-                      {
-                        "lang": "de",
-                        "value": "Phonologische Bewusstheit"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
           "units": [
             {
               "id": "vid_7",
