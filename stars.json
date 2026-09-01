@@ -192,6 +192,11 @@
           "id": "but_multi_2row_1",
           "name": "S_2_SR",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "but_multi_2row_1.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/but_multi_2row_1.voud",
@@ -203,6 +208,11 @@
           "id": "but_multi_2row_10",
           "name": "S_2_SR",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "but_multi_2row_10.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/but_multi_2row_10.voud",
@@ -214,6 +224,11 @@
           "id": "but_multi_2row_2",
           "name": "S_2_SR",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "but_multi_2row_2.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/but_multi_2row_2.voud",
@@ -225,6 +240,11 @@
           "id": "but_multi_2row_3",
           "name": "S_2_SR",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "but_multi_2row_3.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/but_multi_2row_3.voud",
@@ -236,6 +256,11 @@
           "id": "but_multi_2row_4",
           "name": "S_2_SR",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "but_multi_2row_4.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/but_multi_2row_4.voud",
@@ -247,6 +272,11 @@
           "id": "but_multi_2row_5",
           "name": "S_2_SR",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "but_multi_2row_5.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/but_multi_2row_5.voud",
@@ -258,6 +288,11 @@
           "id": "but_multi_2row_6",
           "name": "S_2_SR",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "but_multi_2row_6.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/but_multi_2row_6.voud",
@@ -269,6 +304,11 @@
           "id": "but_multi_2row_7",
           "name": "S_2_SR",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "but_multi_2row_7.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/but_multi_2row_7.voud",
@@ -280,6 +320,11 @@
           "id": "but_multi_2row_8",
           "name": "S_2_SR",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "but_multi_2row_8.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/but_multi_2row_8.voud",
@@ -291,6 +336,11 @@
           "id": "but_multi_2row_9",
           "name": "S_2_SR",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "but_multi_2row_9.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/but_multi_2row_9.voud",
@@ -302,6 +352,11 @@
           "id": "but_multi_2row_UE",
           "name": "S_2_SR",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "but_multi_2row_UE.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/but_multi_2row_UE.voud",
@@ -313,6 +368,11 @@
           "id": "dnd_Koffer_1",
           "name": "S1_1_AE",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "dnd_Koffer_1.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/dnd_Koffer_1.voud",
@@ -324,6 +384,11 @@
           "id": "dnd_Koffer_2",
           "name": "S1_1_AE",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "dnd_Koffer_2.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/dnd_Koffer_2.voud",
@@ -335,6 +400,11 @@
           "id": "dnd_Koffer_3",
           "name": "S1_1_AE",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "dnd_Koffer_3.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/dnd_Koffer_3.voud",
@@ -346,6 +416,11 @@
           "id": "dnd_Koffer_4",
           "name": "S1_1_AE",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "dnd_Koffer_4.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/dnd_Koffer_4.voud",
@@ -357,6 +432,11 @@
           "id": "dnd_Koffer_5",
           "name": "S1_1_AE",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "dnd_Koffer_5.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/dnd_Koffer_5.voud",
@@ -368,6 +448,11 @@
           "id": "dnd_Koffer_6",
           "name": "S1_1_AE",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "dnd_Koffer_6.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/dnd_Koffer_6.voud",
@@ -379,6 +464,11 @@
           "id": "dnd_Koffer_7",
           "name": "S1_1_AE",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "dnd_Koffer_7.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/dnd_Koffer_7.voud",
@@ -390,6 +480,11 @@
           "id": "dnd_Koffer_8",
           "name": "S1_1_AE",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "dnd_Koffer_8.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/dnd_Koffer_8.voud",
@@ -401,6 +496,11 @@
           "id": "dnd_Koffer_9",
           "name": "S1_1_AE",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "dnd_Koffer_9.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/dnd_Koffer_9.voud",
@@ -412,6 +512,11 @@
           "id": "dnd_Koffer_UE",
           "name": "S1_1_AE",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "dnd_Koffer_UE.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/dnd_Koffer_UE.voud",
@@ -423,6 +528,11 @@
           "id": "vfauvertical_1",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_1.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_1.voud",
@@ -434,6 +544,11 @@
           "id": "vfauvertical_10",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_10.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_10.voud",
@@ -445,6 +560,11 @@
           "id": "vfauvertical_11",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_11.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_11.voud",
@@ -456,6 +576,11 @@
           "id": "vfauvertical_12",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_12.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_12.voud",
@@ -467,6 +592,11 @@
           "id": "vfauvertical_13",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_13.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_13.voud",
@@ -478,6 +608,11 @@
           "id": "vfauvertical_14",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_14.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_14.voud",
@@ -489,6 +624,11 @@
           "id": "vfauvertical_15",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_15.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_15.voud",
@@ -500,6 +640,11 @@
           "id": "vfauvertical_16",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_16.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_16.voud",
@@ -511,6 +656,11 @@
           "id": "vfauvertical_17",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_17.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_17.voud",
@@ -522,6 +672,11 @@
           "id": "vfauvertical_18",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_18.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_18.voud",
@@ -533,6 +688,11 @@
           "id": "vfauvertical_19",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_19.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_19.voud",
@@ -544,6 +704,11 @@
           "id": "vfauvertical_2",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_2.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_2.voud",
@@ -555,6 +720,11 @@
           "id": "vfauvertical_20",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_20.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_20.voud",
@@ -566,6 +736,11 @@
           "id": "vfauvertical_21",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_21.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_21.voud",
@@ -577,6 +752,11 @@
           "id": "vfauvertical_22",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_22.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_22.voud",
@@ -588,6 +768,11 @@
           "id": "vfauvertical_23",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_23.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_23.voud",
@@ -599,6 +784,11 @@
           "id": "vfauvertical_24",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_24.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_24.voud",
@@ -610,6 +800,11 @@
           "id": "vfauvertical_25",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_25.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_25.voud",
@@ -621,6 +816,11 @@
           "id": "vfauvertical_26",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_26.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_26.voud",
@@ -632,6 +832,11 @@
           "id": "vfauvertical_27",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_27.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_27.voud",
@@ -643,6 +848,11 @@
           "id": "vfauvertical_28",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_28.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_28.voud",
@@ -654,6 +864,11 @@
           "id": "vfauvertical_29",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_29.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_29.voud",
@@ -665,6 +880,11 @@
           "id": "vfauvertical_3",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_3.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_3.voud",
@@ -676,6 +896,11 @@
           "id": "vfauvertical_30",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_30.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_30.voud",
@@ -687,6 +912,11 @@
           "id": "vfauvertical_31",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_31.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_31.voud",
@@ -698,6 +928,11 @@
           "id": "vfauvertical_32",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_32.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_32.voud",
@@ -709,6 +944,11 @@
           "id": "vfauvertical_33",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_33.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_33.voud",
@@ -720,6 +960,11 @@
           "id": "vfauvertical_34",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_34.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_34.voud",
@@ -731,6 +976,11 @@
           "id": "vfauvertical_35",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_35.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_35.voud",
@@ -742,6 +992,11 @@
           "id": "vfauvertical_36",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_36.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_36.voud",
@@ -753,6 +1008,11 @@
           "id": "vfauvertical_37",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_37.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_37.voud",
@@ -764,6 +1024,11 @@
           "id": "vfauvertical_38",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_38.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_38.voud",
@@ -775,6 +1040,11 @@
           "id": "vfauvertical_39",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_39.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_39.voud",
@@ -786,6 +1056,11 @@
           "id": "vfauvertical_4",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_4.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_4.voud",
@@ -797,6 +1072,11 @@
           "id": "vfauvertical_40",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_40.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_40.voud",
@@ -808,6 +1088,11 @@
           "id": "vfauvertical_41",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_41.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_41.voud",
@@ -819,6 +1104,11 @@
           "id": "vfauvertical_42",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_42.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_42.voud",
@@ -830,6 +1120,11 @@
           "id": "vfauvertical_5",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_5.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_5.voud",
@@ -841,6 +1136,11 @@
           "id": "vfauvertical_6",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_6.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_6.voud",
@@ -852,6 +1152,11 @@
           "id": "vfauvertical_7",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_7.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_7.voud",
@@ -863,6 +1168,11 @@
           "id": "vfauvertical_8",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_8.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_8.voud",
@@ -874,6 +1184,11 @@
           "id": "vfauvertical_9",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_9.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_9.voud",
@@ -885,6 +1200,11 @@
           "id": "vfauvertical_UE_1",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_UE_1.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_UE_1.voud",
@@ -896,6 +1216,11 @@
           "id": "vfauvertical_UE_2",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_UE_2.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_UE_2.voud",
@@ -907,6 +1232,11 @@
           "id": "vfauvertical_UE_3",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_UE_3.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_UE_3.voud",
@@ -918,6 +1248,11 @@
           "id": "vfauvertical_UE_4",
           "name": "S1_4_BID; S_2_WBA ; S_3_SBA",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vfauvertical_UE_4.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vfauvertical_UE_4.voud",
@@ -929,6 +1264,11 @@
           "id": "vid_1",
           "name": "Video",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vid_1.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vid_1.voud",
@@ -940,6 +1280,11 @@
           "id": "vid_2",
           "name": "Video",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vid_2.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vid_2.voud",
@@ -951,6 +1296,11 @@
           "id": "vid_3",
           "name": "Video",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vid_3.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vid_3.voud",
@@ -962,6 +1312,11 @@
           "id": "vid_4",
           "name": "Video",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vid_4.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vid_4.voud",
@@ -973,6 +1328,11 @@
           "id": "vid_5",
           "name": "Video",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vid_5.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vid_5.voud",
@@ -984,6 +1344,11 @@
           "id": "vid_6",
           "name": "Video",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vid_6.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vid_6.voud",
@@ -995,6 +1360,11 @@
           "id": "vid_7",
           "name": "Video",
           "lang": "de",
+          "items": {
+            "useUnitAliasAsPrefix": false,
+            "id": "vid_7.interact",
+            "sourceVariable": "interact"
+          },
           "dependencies": [
             {
               "id": "./units/Sp1/vid_7.voud",
@@ -1542,6 +1912,313 @@
               ]
             }
           ]
+        }
+      ],
+      "scales": [
+        {
+          "id": "S1_4_BID_K1_GT",
+          "name": [
+            {
+              "lang": "de",
+              "value": "S1_4_BID_K1_GT"
+            }
+          ],
+          "description": [
+            {
+              "lang": "de",
+              "value": "Skala vom Typ 'BASE' für Lösungshäufigkeit (Prozent) Buchstabenkenntnis rezeptiv"
+            }
+          ],
+          "scaleType": "BASE",
+          "typeParameters": {
+            "method": "SCORE_RATIO",
+            "methodParameters": {
+              "maxValue": 15
+            },
+            "minItemNumber": 5,
+            "items": [
+              {
+                "id": "vfauvertical_1.interact"
+              },
+              {
+                "id": "vfauvertical_2.interact"
+              },
+              {
+                "id": "vfauvertical_3.interact"
+              },
+              {
+                "id": "vfauvertical_4.interact"
+              },
+              {
+                "id": "vfauvertical_5.interact"
+              },
+              {
+                "id": "vfauvertical_6.interact"
+              },
+              {
+                "id": "vfauvertical_7.interact"
+              },
+              {
+                "id": "vfauvertical_8.interact"
+              },
+              {
+                "id": "vfauvertical_9.interact"
+              },
+              {
+                "id": "vfauvertical_10.interact"
+              },
+              {
+                "id": "vfauvertical_11.interact"
+              },
+              {
+                "id": "vfauvertical_12.interact"
+              },
+              {
+                "id": "vfauvertical_13.interact"
+              },
+              {
+                "id": "vfauvertical_14.interact"
+              },
+              {
+                "id": "vfauvertical_15.interact"
+              }
+            ]
+          }
+        },
+        {
+          "id": "S_2_WBA_K1_GT",
+          "name": [
+            {
+              "lang": "de",
+              "value": "S_2_WBA_K1_GT"
+            }
+          ],
+          "description": [
+            {
+              "lang": "de",
+              "value": "Skala vom Typ 'BASE' für Lösungshäufigkeit (Prozent) Wortschatzumfang"
+            }
+          ],
+          "scaleType": "BASE",
+          "typeParameters": {
+            "method": "SCORE_RATIO",
+            "methodParameters": {
+              "maxValue": 15
+            },
+            "minItemNumber": 5,
+            "items": [
+              {
+                "id": "vfauvertical_16.interact"
+              },
+              {
+                "id": "vfauvertical_17.interact"
+              },
+              {
+                "id": "vfauvertical_18.interact"
+              },
+              {
+                "id": "vfauvertical_19.interact"
+              },
+              {
+                "id": "vfauvertical_20.interact"
+              },
+              {
+                "id": "vfauvertical_21.interact"
+              },
+              {
+                "id": "vfauvertical_22.interact"
+              },
+              {
+                "id": "vfauvertical_23.interact"
+              },
+              {
+                "id": "vfauvertical_24.interact"
+              },
+              {
+                "id": "vfauvertical_25.interact"
+              },
+              {
+                "id": "vfauvertical_26.interact"
+              },
+              {
+                "id": "vfauvertical_27.interact"
+              },
+              {
+                "id": "vfauvertical_28.interact"
+              },
+              {
+                "id": "vfauvertical_29.interact"
+              },
+              {
+                "id": "vfauvertical_30.interact"
+              }
+            ]
+          }
+        },
+        {
+          "id": "S_3_SBA_K1_GT",
+          "name": [
+            {
+              "lang": "de",
+              "value": "S_3_SBA_K1_GT"
+            }
+          ],
+          "description": [
+            {
+              "lang": "de",
+              "value": "Skala vom Typ 'BASE' für Lösungshäufigkeit (Prozent) Verstehen grammatischer Strukturen"
+            }
+          ],
+          "scaleType": "BASE",
+          "typeParameters": {
+            "method": "SCORE_RATIO",
+            "methodParameters": {
+              "maxValue": 11
+            },
+            "minItemNumber": 3,
+            "items": [
+              {
+                "id": "vfauvertical_31.interact"
+              },
+              {
+                "id": "vfauvertical_32.interact"
+              },
+              {
+                "id": "vfauvertical_33.interact"
+              },
+              {
+                "id": "vfauvertical_34.interact"
+              },
+              {
+                "id": "vfauvertical_35.interact"
+              },
+              {
+                "id": "vfauvertical_36.interact"
+              },
+              {
+                "id": "vfauvertical_37.interact"
+              },
+              {
+                "id": "vfauvertical_38.interact"
+              },
+              {
+                "id": "vfauvertical_39.interact"
+              },
+              {
+                "id": "vfauvertical_40.interact"
+              },
+              {
+                "id": "vfauvertical_42.interact"
+              }
+            ]
+          }
+        },
+        {
+          "id": "S_2_SR_K1_GT",
+          "name": [
+            {
+              "lang": "de",
+              "value": "S_2_SR_K1_GT"
+            }
+          ],
+          "description": [
+            {
+              "lang": "de",
+              "value": "Skala vom Typ 'BASE' für Lösungshäufigkeit (Prozent) Wortschatztiefe"
+            }
+          ],
+          "scaleType": "BASE",
+          "typeParameters": {
+            "method": "SCORE_RATIO",
+            "methodParameters": {
+              "maxValue": 10
+            },
+            "minItemNumber": 0,
+            "items": [
+              {
+                "id": "but_multi_2row_1.interact"
+              },
+              {
+                "id": "but_multi_2row_2.interact"
+              },
+              {
+                "id": "but_multi_2row_3.interact"
+              },
+              {
+                "id": "but_multi_2row_4.interact"
+              },
+              {
+                "id": "but_multi_2row_5.interact"
+              },
+              {
+                "id": "but_multi_2row_6.interact"
+              },
+              {
+                "id": "but_multi_2row_7.interact"
+              },
+              {
+                "id": "but_multi_2row_8.interact"
+              },
+              {
+                "id": "but_multi_2row_9.interact"
+              },
+              {
+                "id": "but_multi_2row_10.interact"
+              }
+            ]
+          }
+        },
+        {
+          "id": "S1_1_AE_K1_GT",
+          "name": [
+            {
+              "lang": "de",
+              "value": "S1_1_AE_K1_GT"
+            }
+          ],
+          "description": [
+            {
+              "lang": "de",
+              "value": "Skala vom Typ 'BASE' für Lösungshäufigkeit (Prozent) Anlaute erkennen"
+            }
+          ],
+          "scaleType": "BASE",
+          "typeParameters": {
+            "method": "SCORE_RATIO",
+            "methodParameters": {
+              "maxValue": 9
+            },
+            "minItemNumber": 0,
+            "items": [
+              {
+                "id": "dnd_Koffer_1.interact"
+              },
+              {
+                "id": "dnd_Koffer_2.interact"
+              },
+              {
+                "id": "dnd_Koffer_3.interact"
+              },
+              {
+                "id": "dnd_Koffer_4.interact"
+              },
+              {
+                "id": "dnd_Koffer_5.interact"
+              },
+              {
+                "id": "dnd_Koffer_6.interact"
+              },
+              {
+                "id": "dnd_Koffer_7.interact"
+              },
+              {
+                "id": "dnd_Koffer_8.interact"
+              },
+              {
+                "id": "dnd_Koffer_9.interact"
+              }
+            ]
+          }
         }
       ]
     },
@@ -2901,313 +3578,6 @@
               ]
             }
           ]
-        }
-      ],
-      "scales": [
-        {
-          "id": "S1_4_BID_K1_GT",
-          "name": [
-            {
-              "lang": "de",
-              "value": "S1_4_BID_K1_GT"
-            }
-          ],
-          "description": [
-            {
-              "lang": "de",
-              "value": "Skala vom Typ 'BASE' für Lösungshäufigkeit (Prozent) Buchstabenkenntnis rezeptiv"
-            }
-          ],
-          "scaleType": "BASE",
-          "typeParameters": {
-            "method": "SCORE_RATIO",
-            "methodParameters": {
-              "maxValue": 15
-            },
-            "minItemNumber": 5,
-            "items": [
-              {
-                "id": "vfauvertical_1.interact"
-              },
-              {
-                "id": "vfauvertical_2.interact"
-              },
-              {
-                "id": "vfauvertical_3.interact"
-              },
-              {
-                "id": "vfauvertical_4.interact"
-              },
-              {
-                "id": "vfauvertical_5.interact"
-              },
-              {
-                "id": "vfauvertical_6.interact"
-              },
-              {
-                "id": "vfauvertical_7.interact"
-              },
-              {
-                "id": "vfauvertical_8.interact"
-              },
-              {
-                "id": "vfauvertical_9.interact"
-              },
-              {
-                "id": "vfauvertical_10.interact"
-              },
-              {
-                "id": "vfauvertical_11.interact"
-              },
-              {
-                "id": "vfauvertical_12.interact"
-              },
-              {
-                "id": "vfauvertical_13.interact"
-              },
-              {
-                "id": "vfauvertical_14.interact"
-              },
-              {
-                "id": "vfauvertical_15.interact"
-              }
-            ]
-          }
-        },
-        {
-          "id": "S_2_WBA_K1_GT",
-          "name": [
-            {
-              "lang": "de",
-              "value": "S_2_WBA_K1_GT"
-            }
-          ],
-          "description": [
-            {
-              "lang": "de",
-              "value": "Skala vom Typ 'BASE' für Lösungshäufigkeit (Prozent) Wortschatzumfang"
-            }
-          ],
-          "scaleType": "BASE",
-          "typeParameters": {
-            "method": "SCORE_RATIO",
-            "methodParameters": {
-              "maxValue": 15
-            },
-            "minItemNumber": 5,
-            "items": [
-              {
-                "id": "vfauvertical_16.interact"
-              },
-              {
-                "id": "vfauvertical_17.interact"
-              },
-              {
-                "id": "vfauvertical_18.interact"
-              },
-              {
-                "id": "vfauvertical_19.interact"
-              },
-              {
-                "id": "vfauvertical_20.interact"
-              },
-              {
-                "id": "vfauvertical_21.interact"
-              },
-              {
-                "id": "vfauvertical_22.interact"
-              },
-              {
-                "id": "vfauvertical_23.interact"
-              },
-              {
-                "id": "vfauvertical_24.interact"
-              },
-              {
-                "id": "vfauvertical_25.interact"
-              },
-              {
-                "id": "vfauvertical_26.interact"
-              },
-              {
-                "id": "vfauvertical_27.interact"
-              },
-              {
-                "id": "vfauvertical_28.interact"
-              },
-              {
-                "id": "vfauvertical_29.interact"
-              },
-              {
-                "id": "vfauvertical_30.interact"
-              }
-            ]
-          }
-        },
-        {
-          "id": "S_3_SBA_K1_GT",
-          "name": [
-            {
-              "lang": "de",
-              "value": "S_3_SBA_K1_GT"
-            }
-          ],
-          "description": [
-            {
-              "lang": "de",
-              "value": "Skala vom Typ 'BASE' für Lösungshäufigkeit (Prozent) Verstehen grammatischer Strukturen"
-            }
-          ],
-          "scaleType": "BASE",
-          "typeParameters": {
-            "method": "SCORE_RATIO",
-            "methodParameters": {
-              "maxValue": 11
-            },
-            "minItemNumber": 3,
-            "items": [
-              {
-                "id": "vfauvertical_31.interact"
-              },
-              {
-                "id": "vfauvertical_32.interact"
-              },
-              {
-                "id": "vfauvertical_33.interact"
-              },
-              {
-                "id": "vfauvertical_34.interact"
-              },
-              {
-                "id": "vfauvertical_35.interact"
-              },
-              {
-                "id": "vfauvertical_36.interact"
-              },
-              {
-                "id": "vfauvertical_37.interact"
-              },
-              {
-                "id": "vfauvertical_38.interact"
-              },
-              {
-                "id": "vfauvertical_39.interact"
-              },
-              {
-                "id": "vfauvertical_40.interact"
-              },
-              {
-                "id": "vfauvertical_42.interact"
-              }
-            ]
-          }
-        },
-        {
-          "id": "S_2_SR_K1_GT",
-          "name": [
-            {
-              "lang": "de",
-              "value": "S_2_SR_K1_GT"
-            }
-          ],
-          "description": [
-            {
-              "lang": "de",
-              "value": "Skala vom Typ 'BASE' für Lösungshäufigkeit (Prozent) Wortschatztiefe"
-            }
-          ],
-          "scaleType": "BASE",
-          "typeParameters": {
-            "method": "SCORE_RATIO",
-            "methodParameters": {
-              "maxValue": 10
-            },
-            "minItemNumber": 0,
-            "items": [
-              {
-                "id": "but_multi_2row_1.interact"
-              },
-              {
-                "id": "but_multi_2row_2.interact"
-              },
-              {
-                "id": "but_multi_2row_3.interact"
-              },
-              {
-                "id": "but_multi_2row_4.interact"
-              },
-              {
-                "id": "but_multi_2row_5.interact"
-              },
-              {
-                "id": "but_multi_2row_6.interact"
-              },
-              {
-                "id": "but_multi_2row_7.interact"
-              },
-              {
-                "id": "but_multi_2row_8.interact"
-              },
-              {
-                "id": "but_multi_2row_9.interact"
-              },
-              {
-                "id": "but_multi_2row_10.interact"
-              }
-            ]
-          }
-        },
-        {
-          "id": "S1_1_AE_K1_GT",
-          "name": [
-            {
-              "lang": "de",
-              "value": "S1_1_AE_K1_GT"
-            }
-          ],
-          "description": [
-            {
-              "lang": "de",
-              "value": "Skala vom Typ 'BASE' für Lösungshäufigkeit (Prozent) Anlaute erkennen"
-            }
-          ],
-          "scaleType": "BASE",
-          "typeParameters": {
-            "method": "SCORE_RATIO",
-            "methodParameters": {
-              "maxValue": 9
-            },
-            "minItemNumber": 0,
-            "items": [
-              {
-                "id": "dnd_Koffer_1.interact"
-              },
-              {
-                "id": "dnd_Koffer_2.interact"
-              },
-              {
-                "id": "dnd_Koffer_3.interact"
-              },
-              {
-                "id": "dnd_Koffer_4.interact"
-              },
-              {
-                "id": "dnd_Koffer_5.interact"
-              },
-              {
-                "id": "dnd_Koffer_6.interact"
-              },
-              {
-                "id": "dnd_Koffer_7.interact"
-              },
-              {
-                "id": "dnd_Koffer_8.interact"
-              },
-              {
-                "id": "dnd_Koffer_9.interact"
-              }
-            ]
-          }
         }
       ]
     }
