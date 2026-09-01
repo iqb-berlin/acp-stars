@@ -1,0 +1,2346 @@
+[
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "RH_M_1",
+    "responses": [],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"CURRENT_PAGE_NR\":\"undefined\",\"CURRENT_PAGE_ID\":\"-1\",\"PAGE_COUNT\":\"0\"}",
+    "originalUnitId": "RH_M_1"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "RH_M_2",
+    "responses": [],
+    "laststate": "{\"PLAYER\":\"RUNNING\"}",
+    "originalUnitId": "RH_M_2"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "RH_M_3",
+    "responses": [],
+    "laststate": "{\"PLAYER\":\"RUNNING\"}",
+    "originalUnitId": "RH_M_3"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "RH_M_4",
+    "responses": [],
+    "laststate": "{\"PLAYER\":\"RUNNING\"}",
+    "originalUnitId": "RH_M_4"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "blitzsehen_1",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.53368297675709,\"code\":0,\"score\":0}]",
+        "ts": 1785200114295,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "blitzsehen_1"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "blitzsehen_2",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.8511809825050353,\"code\":0,\"score\":0}]",
+        "ts": 1785200115764,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "blitzsehen_2"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "blitzsehen_3",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.4440064218399237,\"code\":0,\"score\":0}]",
+        "ts": 1785200116821,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "blitzsehen_3"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "blitzsehen_4",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785200117832,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "blitzsehen_4"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "blitzsehen_5",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.4004622425447765,\"code\":0,\"score\":0}]",
+        "ts": 1785200119346,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "blitzsehen_5"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "blitzsehen_6",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785200121606,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "blitzsehen_6"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "blitzsehen_7",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785200124103,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "blitzsehen_7"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "blitzsehen_8",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.8788423371764046,\"code\":0,\"score\":0}]",
+        "ts": 1785200127001,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "blitzsehen_8"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "blitzsehen_9",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.3801415394918581,\"code\":0,\"score\":0}]",
+        "ts": 1785200128963,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "blitzsehen_9"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "blitzsehen_UE",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.6374280187443722,\"code\":0,\"score\":0}]",
+        "ts": 1785200112205,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "blitzsehen_UE"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "but_row_audio_MK_01",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785200081992,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "but_row_audio_MK_01"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "but_row_audio_MK_02",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"4\",\"code\":0,\"score\":0},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.9341881976179236,\"code\":0,\"score\":0}]",
+        "ts": 1785200084872,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "but_row_audio_MK_02"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "but_row_audio_MK_03",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":0,\"score\":0},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.7475719641512617,\"code\":0,\"score\":0}]",
+        "ts": 1785200087823,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "but_row_audio_MK_03"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "but_row_audio_MK_04",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.2669253535804515,\"code\":0,\"score\":0}]",
+        "ts": 1785200090652,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "but_row_audio_MK_04"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "but_row_audio_MK_05",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.55844967407495,\"code\":0,\"score\":0}]",
+        "ts": 1785200092065,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "but_row_audio_MK_05"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "but_row_audio_MK_06",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":0,\"score\":0},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.9652063623381935,\"code\":0,\"score\":0}]",
+        "ts": 1785200093571,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "but_row_audio_MK_06"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "but_row_audio_MK_07",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.4104915118719303,\"code\":0,\"score\":0}]",
+        "ts": 1785200096456,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "but_row_audio_MK_07"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "but_row_audio_MK_08",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.6985799799827433,\"code\":0,\"score\":0}]",
+        "ts": 1785200099229,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "but_row_audio_MK_08"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "but_row_audio_MK_09",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785200100303,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "but_row_audio_MK_09"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "but_row_audio_MK_10",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.6747737042551938,\"code\":0,\"score\":0}]",
+        "ts": 1785200101842,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "but_row_audio_MK_10"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "dnd_Muscheln_1",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.1718188629414147,\"code\":0,\"score\":0}]",
+        "ts": 1785200103482,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "dnd_Muscheln_1"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "dnd_Muscheln_2",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785200106245,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "dnd_Muscheln_2"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "forms_1",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":0,\"score\":0},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.7636770043925777,\"code\":0,\"score\":0}]",
+        "ts": 1785200138186,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "forms_1"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "forms_2",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.5822095564442621,\"code\":0,\"score\":0}]",
+        "ts": 1785200141003,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "forms_2"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "leftpic_scpic_1",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.7590493464411255,\"code\":0,\"score\":0}]",
+        "ts": 1785200006542,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "leftpic_scpic_1"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "leftpic_scpic_2",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":0,\"score\":0},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785200008442,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "leftpic_scpic_2"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "leftpic_scpic_UE",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":0,\"score\":0},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.8649503744734167,\"code\":0,\"score\":0}]",
+        "ts": 1785200004645,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "leftpic_scpic_UE"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "rahmenhandlung_end",
+    "responses": [],
+    "laststate": "{\"PLAYER\":\"RUNNING\"}",
+    "originalUnitId": "rahmenhandlung_end"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "squarepic_4scrow400_1",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785200040094,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "squarepic_4scrow400_1"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "squarepic_4scrow400_2",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785200041974,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "squarepic_4scrow400_2"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "squarepic_4scrow400_3",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.7498202729693358,\"code\":0,\"score\":0}]",
+        "ts": 1785200042897,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "squarepic_4scrow400_3"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "squarepic_4scrow400_4",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.2738667864952606,\"code\":0,\"score\":0}]",
+        "ts": 1785200044532,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "squarepic_4scrow400_4"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "squarepic_4scrow400_5",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.7126318840612134,\"code\":0,\"score\":0}]",
+        "ts": 1785200047437,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "squarepic_4scrow400_5"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "squarepic_4scrow400_6",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785200049181,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "squarepic_4scrow400_6"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "squarepic_4scrow400_7",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.4112419798784135,\"code\":0,\"score\":0}]",
+        "ts": 1785200052048,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "squarepic_4scrow400_7"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "squarepic_4scrow400_8",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785200054504,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "squarepic_4scrow400_8"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "squarepic_4scrow83_1",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.4480278368819574,\"code\":0,\"score\":0}]",
+        "ts": 1785200025618,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "squarepic_4scrow83_1"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "squarepic_4scrow83_2",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.2048730622431588,\"code\":0,\"score\":0}]",
+        "ts": 1785200027068,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "squarepic_4scrow83_2"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "squarepic_4scrow83_3",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.9133697665022555,\"code\":0,\"score\":0}]",
+        "ts": 1785200130001,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "squarepic_4scrow83_3"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "squarepic_4scrow83_4",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.887451520437304,\"code\":0,\"score\":0}]",
+        "ts": 1785200132513,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "squarepic_4scrow83_4"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "squarepic_4scrow83_5",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785200133730,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "squarepic_4scrow83_5"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "toppic_4scrow350_1",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785200056153,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "toppic_4scrow350_1"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "toppic_4scrow350_2",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.2754772567472832,\"code\":0,\"score\":0}]",
+        "ts": 1785200058103,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "toppic_4scrow350_2"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "toppic_4scrow350_3",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.6956213458894092,\"code\":0,\"score\":0}]",
+        "ts": 1785200060021,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "toppic_4scrow350_3"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "toppic_4scrow350_4",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785200062761,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "toppic_4scrow350_4"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "twochoiceonly_rl_1",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":0,\"score\":0},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785200010007,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "twochoiceonly_rl_1"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "twochoiceonly_rl_2",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.6904906014355027,\"code\":0,\"score\":0}]",
+        "ts": 1785200012356,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "twochoiceonly_rl_2"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "twochoiceonly_rl_3",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.304114936097694,\"code\":0,\"score\":0}]",
+        "ts": 1785200015191,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "twochoiceonly_rl_3"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "twochoiceonly_rl_4",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.9343440800497083,\"code\":0,\"score\":0}]",
+        "ts": 1785200017137,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "twochoiceonly_rl_4"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "twochoiceonly_rl_5",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.154948114972882,\"code\":0,\"score\":0}]",
+        "ts": 1785200019459,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "twochoiceonly_rl_5"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "twochoiceonly_rl_6",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.7779798887694495,\"code\":0,\"score\":0}]",
+        "ts": 1785200020595,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "twochoiceonly_rl_6"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "twochoiceonly_rl_7",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.2561021916506108,\"code\":0,\"score\":0}]",
+        "ts": 1785200022461,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "twochoiceonly_rl_7"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "twochoiceonly_rl_8",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.7450321763760753,\"code\":0,\"score\":0}]",
+        "ts": 1785200023722,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "twochoiceonly_rl_8"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vfauvertical_UE_1",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785200069591,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "vfauvertical_UE_1"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vfauvertical_UE_2",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785200070476,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "vfauvertical_UE_2"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vfauvertical_UE_3",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.729347956037665,\"code\":0,\"score\":0}]",
+        "ts": 1785200071919,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "vfauvertical_UE_3"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vfauvertical_UE_4",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785200074163,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "vfauvertical_UE_4"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vfauvertical_UE_5",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.1609221429810399,\"code\":0,\"score\":0}]",
+        "ts": 1785200079571,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "vfauvertical_UE_5"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vid_1",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"VIDEO\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785200002614,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"none\"}",
+    "originalUnitId": "vid_1"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vid_2",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"VIDEO\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785200066617,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"none\"}",
+    "originalUnitId": "vid_2"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vid_3",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"VIDEO\",\"status\":\"VALUE_CHANGED\",\"value\":1.0000066,\"code\":0,\"score\":0}]",
+        "ts": 1785200076814,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"none\"}",
+    "originalUnitId": "vid_3"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vid_4",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"VIDEO\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785200111379,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"none\"}",
+    "originalUnitId": "vid_4"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vid_5",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"VIDEO\",\"status\":\"VALUE_CHANGED\",\"value\":1.0000066,\"code\":0,\"score\":0}]",
+        "ts": 1785200136455,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"none\"}",
+    "originalUnitId": "vid_5"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vierfelderAudio_Row_1",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.4117669871864282,\"code\":0,\"score\":0}]",
+        "ts": 1785200028385,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "vierfelderAudio_Row_1"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vierfelderAudio_Row_2",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"4\",\"code\":0,\"score\":0},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.1803468722489,\"code\":0,\"score\":0}]",
+        "ts": 1785200031274,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "vierfelderAudio_Row_2"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vierfelderAudio_Row_3",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785200034002,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "vierfelderAudio_Row_3"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "schlummer",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vierfelderAudio_Row_4",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.8589126835982376,\"code\":0,\"score\":0}]",
+        "ts": 1785200036028,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "vierfelderAudio_Row_4"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "RH_M_1",
+    "responses": [],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"CURRENT_PAGE_NR\":\"undefined\",\"CURRENT_PAGE_ID\":\"-1\",\"PAGE_COUNT\":\"0\"}",
+    "originalUnitId": "RH_M_1"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "RH_M_2",
+    "responses": [],
+    "laststate": "{\"PLAYER\":\"RUNNING\"}",
+    "originalUnitId": "RH_M_2"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "RH_M_3",
+    "responses": [],
+    "laststate": "{\"PLAYER\":\"RUNNING\"}",
+    "originalUnitId": "RH_M_3"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "RH_M_4",
+    "responses": [],
+    "laststate": "{\"PLAYER\":\"RUNNING\"}",
+    "originalUnitId": "RH_M_4"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "blitzsehen_1",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.9612983416762803,\"code\":0,\"score\":0}]",
+        "ts": 1785210103035,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "blitzsehen_1"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "blitzsehen_2",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785210105262,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "blitzsehen_2"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "blitzsehen_3",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.6827520609085853,\"code\":0,\"score\":0}]",
+        "ts": 1785210108052,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "blitzsehen_3"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "blitzsehen_4",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785210109212,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "blitzsehen_4"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "blitzsehen_5",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":0,\"score\":0},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.4307465271027043,\"code\":0,\"score\":0}]",
+        "ts": 1785210111290,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "blitzsehen_5"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "blitzsehen_6",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.9629899990695625,\"code\":0,\"score\":0}]",
+        "ts": 1785210112684,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "blitzsehen_6"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "blitzsehen_7",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.8389765099638314,\"code\":0,\"score\":0}]",
+        "ts": 1785210115194,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "blitzsehen_7"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "blitzsehen_8",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":0,\"score\":0},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.4742002193177411,\"code\":0,\"score\":0}]",
+        "ts": 1785210115997,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "blitzsehen_8"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "blitzsehen_9",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.4050692548346941,\"code\":0,\"score\":0}]",
+        "ts": 1785210118143,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "blitzsehen_9"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "blitzsehen_UE",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":0,\"score\":0},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.9256861851427551,\"code\":0,\"score\":0}]",
+        "ts": 1785210102015,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "blitzsehen_UE"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "but_row_audio_MK_01",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.407413626416441,\"code\":0,\"score\":0}]",
+        "ts": 1785210074794,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "but_row_audio_MK_01"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "but_row_audio_MK_02",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.606959426477002,\"code\":0,\"score\":0}]",
+        "ts": 1785210076983,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "but_row_audio_MK_02"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "but_row_audio_MK_03",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.505634270017821,\"code\":0,\"score\":0}]",
+        "ts": 1785210078376,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "but_row_audio_MK_03"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "but_row_audio_MK_04",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"4\",\"code\":0,\"score\":0},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785210080349,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "but_row_audio_MK_04"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "but_row_audio_MK_05",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785210082487,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "but_row_audio_MK_05"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "but_row_audio_MK_06",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.5625347190460188,\"code\":0,\"score\":0}]",
+        "ts": 1785210085411,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "but_row_audio_MK_06"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "but_row_audio_MK_07",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.1672451010038673,\"code\":0,\"score\":0}]",
+        "ts": 1785210087028,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "but_row_audio_MK_07"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "but_row_audio_MK_08",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785210089831,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "but_row_audio_MK_08"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "but_row_audio_MK_09",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":0,\"score\":0},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785210092786,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "but_row_audio_MK_09"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "but_row_audio_MK_10",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785210093911,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "but_row_audio_MK_10"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "dnd_Muscheln_1",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"4\",\"code\":0,\"score\":0},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785210094962,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "dnd_Muscheln_1"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "dnd_Muscheln_2",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.4345693415765209,\"code\":0,\"score\":0}]",
+        "ts": 1785210096509,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "dnd_Muscheln_2"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "forms_1",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.2616949118252913,\"code\":0,\"score\":0}]",
+        "ts": 1785210127577,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "forms_1"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "forms_2",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785210130242,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "forms_2"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "leftpic_scpic_1",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785210007832,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "leftpic_scpic_1"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "leftpic_scpic_2",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"7\",\"code\":0,\"score\":0},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.4310080293348036,\"code\":0,\"score\":0}]",
+        "ts": 1785210009587,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "leftpic_scpic_2"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "leftpic_scpic_UE",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":0,\"score\":0},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.9158873930676726,\"code\":0,\"score\":0}]",
+        "ts": 1785210005175,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "leftpic_scpic_UE"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "rahmenhandlung_end",
+    "responses": [],
+    "laststate": "{\"PLAYER\":\"RUNNING\"}",
+    "originalUnitId": "rahmenhandlung_end"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "squarepic_4scrow400_1",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.2870079417067617,\"code\":0,\"score\":0}]",
+        "ts": 1785210039419,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "squarepic_4scrow400_1"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "squarepic_4scrow400_2",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785210042154,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "squarepic_4scrow400_2"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "squarepic_4scrow400_3",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.9696253649685097,\"code\":0,\"score\":0}]",
+        "ts": 1785210043047,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "squarepic_4scrow400_3"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "squarepic_4scrow400_4",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":0,\"score\":0},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.836913807152739,\"code\":0,\"score\":0}]",
+        "ts": 1785210043949,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "squarepic_4scrow400_4"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "squarepic_4scrow400_5",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.5545236467520488,\"code\":0,\"score\":0}]",
+        "ts": 1785210045135,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "squarepic_4scrow400_5"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "squarepic_4scrow400_6",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785210046550,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "squarepic_4scrow400_6"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "squarepic_4scrow400_7",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.3371369073441332,\"code\":0,\"score\":0}]",
+        "ts": 1785210049030,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "squarepic_4scrow400_7"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "squarepic_4scrow400_8",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.9641122451201388,\"code\":0,\"score\":0}]",
+        "ts": 1785210051119,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "squarepic_4scrow400_8"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "squarepic_4scrow83_1",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.6376177989096955,\"code\":0,\"score\":0}]",
+        "ts": 1785210025754,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "squarepic_4scrow83_1"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "squarepic_4scrow83_2",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785210028211,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "squarepic_4scrow83_2"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "squarepic_4scrow83_3",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785210120633,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "squarepic_4scrow83_3"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "squarepic_4scrow83_4",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785210123103,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "squarepic_4scrow83_4"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "squarepic_4scrow83_5",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785210124281,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "squarepic_4scrow83_5"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "toppic_4scrow350_1",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.2453557354347739,\"code\":0,\"score\":0}]",
+        "ts": 1785210052947,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "toppic_4scrow350_1"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "toppic_4scrow350_2",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"4\",\"code\":0,\"score\":0},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.2126103610529886,\"code\":0,\"score\":0}]",
+        "ts": 1785210055436,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "toppic_4scrow350_2"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "toppic_4scrow350_3",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.8164224724635126,\"code\":0,\"score\":0}]",
+        "ts": 1785210057376,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "toppic_4scrow350_3"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "toppic_4scrow350_4",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.2390330546425807,\"code\":0,\"score\":0}]",
+        "ts": 1785210059414,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "toppic_4scrow350_4"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "twochoiceonly_rl_1",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785210011086,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "twochoiceonly_rl_1"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "twochoiceonly_rl_2",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.3429279577164457,\"code\":0,\"score\":0}]",
+        "ts": 1785210012961,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "twochoiceonly_rl_2"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "twochoiceonly_rl_3",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":0,\"score\":0},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.7425896655554423,\"code\":0,\"score\":0}]",
+        "ts": 1785210015595,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "twochoiceonly_rl_3"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "twochoiceonly_rl_4",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.6084733150668311,\"code\":0,\"score\":0}]",
+        "ts": 1785210016719,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "twochoiceonly_rl_4"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "twochoiceonly_rl_5",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.5358234852570963,\"code\":0,\"score\":0}]",
+        "ts": 1785210019173,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "twochoiceonly_rl_5"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "twochoiceonly_rl_6",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.9701674909083758,\"code\":0,\"score\":0}]",
+        "ts": 1785210020945,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "twochoiceonly_rl_6"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "twochoiceonly_rl_7",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785210022548,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "twochoiceonly_rl_7"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "twochoiceonly_rl_8",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.3995092586214887,\"code\":0,\"score\":0}]",
+        "ts": 1785210024336,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "twochoiceonly_rl_8"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vfauvertical_UE_1",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785210064496,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "vfauvertical_UE_1"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vfauvertical_UE_2",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":0,\"score\":0},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785210065298,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "vfauvertical_UE_2"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vfauvertical_UE_3",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.700978373996203,\"code\":0,\"score\":0}]",
+        "ts": 1785210066278,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "vfauvertical_UE_3"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vfauvertical_UE_4",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.3847486165185287,\"code\":0,\"score\":0}]",
+        "ts": 1785210067608,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "vfauvertical_UE_4"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vfauvertical_UE_5",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":0,\"score\":0},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.5504025958129335,\"code\":0,\"score\":0}]",
+        "ts": 1785210072033,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "vfauvertical_UE_5"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vid_1",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"VIDEO\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785210002186,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"none\"}",
+    "originalUnitId": "vid_1"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vid_2",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"VIDEO\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785210062730,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"none\"}",
+    "originalUnitId": "vid_2"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vid_3",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"VIDEO\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785210070331,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"none\"}",
+    "originalUnitId": "vid_3"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vid_4",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"VIDEO\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785210100481,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"none\"}",
+    "originalUnitId": "vid_4"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vid_5",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"VIDEO\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785210125827,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"none\"}",
+    "originalUnitId": "vid_5"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vierfelderAudio_Row_1",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.1808960707784173,\"code\":0,\"score\":0}]",
+        "ts": 1785210030629,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "vierfelderAudio_Row_1"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vierfelderAudio_Row_2",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":1,\"code\":0,\"score\":0}]",
+        "ts": 1785210031502,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"some\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "vierfelderAudio_Row_2"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vierfelderAudio_Row_3",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":0,\"score\":0},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.5645648501433713,\"code\":0,\"score\":0}]",
+        "ts": 1785210032561,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "vierfelderAudio_Row_3"
+  },
+  {
+    "groupname": "akow93j9js5f7u",
+    "loginname": "9283982772883777483838",
+    "code": "",
+    "bookletname": "BOOKLET_MA1G",
+    "unitname": "vierfelderAudio_Row_4",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"interact\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"mainAudio\",\"status\":\"VALUE_CHANGED\",\"value\":0.17416885741443,\"code\":0,\"score\":0}]",
+        "ts": 1785210035146,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "vierfelderAudio_Row_4"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "groupname": "TestTakerGroup_q9r4q",
+    "loginname": "d4f6z",
+    "code": "",
+    "bookletname": "BOOKLET_SP1ET",
+    "unitname": "S1_4_BB_01",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"radio_1782331448018_1\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":0,\"score\":0},{\"id\":\"radio_1782331448018_2\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"radio_1782331448018_3\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"radio_1782331448018_4\",\"status\":\"CODING_COMPLETE\",\"value\":\"4\",\"code\":0,\"score\":0},{\"id\":\"radio_1782331448018_5\",\"status\":\"CODING_COMPLETE\",\"value\":\"5\",\"code\":0,\"score\":0},{\"id\":\"radio_1782331448018_6\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1}]",
+        "ts": 1785300008043,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "S1_4_BB_01"
+  },
+  {
+    "groupname": "TestTakerGroup_q9r4q",
+    "loginname": "d4f6z",
+    "code": "",
+    "bookletname": "BOOKLET_SP1ET",
+    "unitname": "S1_4_BB_02",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"radio_1782331448018_1\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"radio_1782331448018_2\",\"status\":\"CODING_COMPLETE\",\"value\":\"6\",\"code\":0,\"score\":0},{\"id\":\"radio_1782331448018_3\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"radio_1782331448018_4\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":0,\"score\":0},{\"id\":\"radio_1782331448018_5\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":0,\"score\":0},{\"id\":\"radio_1782331448018_6\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":0,\"score\":0}]",
+        "ts": 1785300003825,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "S1_4_BB_02"
+  },
+  {
+    "groupname": "TestTakerGroup_q9r4q",
+    "loginname": "d4f6z",
+    "code": "",
+    "bookletname": "BOOKLET_SP1ET",
+    "unitname": "S1_4_BB_03",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"radio_1782331448018_1\",\"status\":\"CODING_COMPLETE\",\"value\":\"6\",\"code\":0,\"score\":0},{\"id\":\"radio_1782331448018_2\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1},{\"id\":\"radio_1782331448018_3\",\"status\":\"CODING_COMPLETE\",\"value\":\"6\",\"code\":0,\"score\":0},{\"id\":\"radio_1782331448018_4\",\"status\":\"CODING_COMPLETE\",\"value\":\"3\",\"code\":0,\"score\":0},{\"id\":\"radio_1782331448018_5\",\"status\":\"CODING_COMPLETE\",\"value\":\"4\",\"code\":0,\"score\":0}]",
+        "ts": 1785300006483,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "S1_4_BB_03"
+  },
+  {
+    "groupname": "TestTakerGroup_q9r4q",
+    "loginname": "d4f6z",
+    "code": "",
+    "bookletname": "BOOKLET_SP1ET",
+    "unitname": "S1_4_Satz",
+    "responses": [
+      {
+        "id": "responses",
+        "content": "[{\"id\":\"likert-row_1782845316672_1\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":0,\"score\":0},{\"id\":\"likert-row_1782845415692_1\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":1,\"score\":1},{\"id\":\"likert-row_1782845434804_1\",\"status\":\"CODING_COMPLETE\",\"value\":\"1\",\"code\":0,\"score\":0},{\"id\":\"likert-row_1782845486055_1\",\"status\":\"CODING_COMPLETE\",\"value\":\"2\",\"code\":1,\"score\":1}]",
+        "ts": 1785300000000,
+        "responseType": "iqb-standard@2.0"
+      }
+    ],
+    "laststate": "{\"PLAYER\":\"RUNNING\",\"PRESENTATION_PROGRESS\":\"complete\",\"RESPONSE_PROGRESS\":\"complete\"}",
+    "originalUnitId": "S1_4_Satz"
+  }
+]
