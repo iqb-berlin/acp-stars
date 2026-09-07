@@ -1264,11 +1264,6 @@
           "id": "vid_1",
           "name": "Video",
           "lang": "de",
-          "items": {
-            "useUnitAliasAsPrefix": false,
-            "id": "vid_1.interact",
-            "sourceVariable": "interact"
-          },
           "dependencies": [
             {
               "id": "./units/Sp1/vid_1.voud",
@@ -1280,11 +1275,6 @@
           "id": "vid_2",
           "name": "Video",
           "lang": "de",
-          "items": {
-            "useUnitAliasAsPrefix": false,
-            "id": "vid_2.interact",
-            "sourceVariable": "interact"
-          },
           "dependencies": [
             {
               "id": "./units/Sp1/vid_2.voud",
@@ -1296,11 +1286,6 @@
           "id": "vid_3",
           "name": "Video",
           "lang": "de",
-          "items": {
-            "useUnitAliasAsPrefix": false,
-            "id": "vid_3.interact",
-            "sourceVariable": "interact"
-          },
           "dependencies": [
             {
               "id": "./units/Sp1/vid_3.voud",
@@ -1312,11 +1297,6 @@
           "id": "vid_4",
           "name": "Video",
           "lang": "de",
-          "items": {
-            "useUnitAliasAsPrefix": false,
-            "id": "vid_4.interact",
-            "sourceVariable": "interact"
-          },
           "dependencies": [
             {
               "id": "./units/Sp1/vid_4.voud",
@@ -1328,11 +1308,6 @@
           "id": "vid_5",
           "name": "Video",
           "lang": "de",
-          "items": {
-            "useUnitAliasAsPrefix": false,
-            "id": "vid_5.interact",
-            "sourceVariable": "interact"
-          },
           "dependencies": [
             {
               "id": "./units/Sp1/vid_5.voud",
@@ -1344,11 +1319,6 @@
           "id": "vid_6",
           "name": "Video",
           "lang": "de",
-          "items": {
-            "useUnitAliasAsPrefix": false,
-            "id": "vid_6.interact",
-            "sourceVariable": "interact"
-          },
           "dependencies": [
             {
               "id": "./units/Sp1/vid_6.voud",
@@ -1360,11 +1330,6 @@
           "id": "vid_7",
           "name": "Video",
           "lang": "de",
-          "items": {
-            "useUnitAliasAsPrefix": false,
-            "id": "vid_7.interact",
-            "sourceVariable": "interact"
-          },
           "dependencies": [
             {
               "id": "./units/Sp1/vid_7.voud",
