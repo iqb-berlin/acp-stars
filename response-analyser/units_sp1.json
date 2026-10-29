@@ -1,0 +1,739 @@
+[
+  {
+    "id": "but_multi_2row_1",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "but_multi_2row_1.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "but_multi_2row_10",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "but_multi_2row_10.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "but_multi_2row_2",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "but_multi_2row_2.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "but_multi_2row_3",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "but_multi_2row_3.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "but_multi_2row_4",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "but_multi_2row_4.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "but_multi_2row_5",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "but_multi_2row_5.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "but_multi_2row_6",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "but_multi_2row_6.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "but_multi_2row_7",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "but_multi_2row_7.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "but_multi_2row_8",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "but_multi_2row_8.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "but_multi_2row_9",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "but_multi_2row_9.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "but_multi_2row_UE",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "but_multi_2row_UE.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "dnd_Koffer_1",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "dnd_Koffer_1.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "dnd_Koffer_2",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "dnd_Koffer_2.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "dnd_Koffer_3",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "dnd_Koffer_3.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "dnd_Koffer_4",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "dnd_Koffer_4.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "dnd_Koffer_5",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "dnd_Koffer_5.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "dnd_Koffer_6",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "dnd_Koffer_6.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "dnd_Koffer_7",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "dnd_Koffer_7.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "dnd_Koffer_8",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "dnd_Koffer_8.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "dnd_Koffer_9",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "dnd_Koffer_9.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "dnd_Koffer_UE",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "dnd_Koffer_UE.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_1",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_1.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_10",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_10.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_11",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_11.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_12",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_12.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_13",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_13.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_14",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_14.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_15",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_15.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_16",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_16.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_17",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_17.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_18",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_18.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_19",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_19.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_2",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_2.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_20",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_20.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_21",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_21.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_22",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_22.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_23",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_23.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_24",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_24.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_25",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_25.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_26",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_26.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_27",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_27.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_28",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_28.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_29",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_29.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_3",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_3.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_30",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_30.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_31",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_31.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_32",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_32.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_33",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_33.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_34",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_34.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_35",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_35.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_36",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_36.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_37",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_37.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_38",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_38.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_39",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_39.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_4",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_4.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_40",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_40.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_41",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_41.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_42",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_42.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_5",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_5.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_6",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_6.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_7",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_7.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_8",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_8.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_9",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_9.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_UE_1",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_UE_1.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_UE_2",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_UE_2.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_UE_3",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_UE_3.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  },
+  {
+    "id": "vfauvertical_UE_4",
+    "codingScheme": null,
+    "items": [
+      {
+        "useUnitAliasAsPrefix": false,
+        "id": "vfauvertical_UE_4.interact",
+        "sourceVariable": "interact"
+      }
+    ]
+  }
+]
