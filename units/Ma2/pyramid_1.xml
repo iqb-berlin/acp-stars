@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://w3id.org/iqb/spec/unit-xml/17.7">
+  <Metadata lastChange="2026-08-13T08:55:01.873Z">
+    <Id>pyramid_1</Id>
+    <Label>M2_4_b_ZuZ</Label>
+    <Reference/>
+  </Metadata>
+  <DefinitionRef player="iqb-player-stars@0.7" editor="iqb-editor-stars@0.1.2-beta" lastChange="2026-10-14T08:08:41.883Z">pyramid_1.voud</DefinitionRef>
+</Unit>

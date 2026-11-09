@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://w3id.org/iqb/spec/unit-xml/17.7">
+  <Metadata lastChange="2026-10-13T13:57:07.312Z">
+    <Id>eq_result_103</Id>
+    <Label> M2_4_b_3, M2_4_b_3_VD, M2_4_b_5, M2_4_b_4, M2_4_b_4_HB, M2_4_b_6</Label>
+    <Reference/>
+  </Metadata>
+  <DefinitionRef player="iqb-player-stars@0.7" editor="iqb-editor-stars@0.1.2-beta" lastChange="2026-04-23T08:07:59.866Z">eq_result_103.voud</DefinitionRef>
+</Unit>

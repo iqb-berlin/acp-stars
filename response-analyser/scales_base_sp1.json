@@ -1,0 +1,292 @@
+[
+  {
+    "id": "S1_4_BID_K1_GT",
+    "name": [
+      {
+        "lang": "de",
+        "value": "S1_4_BID_K1_GT"
+      }
+    ],
+    "description": [
+      {
+        "lang": "de",
+        "value": "Skala vom Typ 'BASE' für Lösungshäufigkeit (Prozent) Buchstabenkenntnis rezeptiv"
+      }
+    ],
+    "method": "SCORE_RATIO",
+    "methodParameters": {
+      "maxValue": 15
+    },
+    "items": [
+      {
+        "id": "vfauvertical_1.interact"
+      },
+      {
+        "id": "vfauvertical_2.interact"
+      },
+      {
+        "id": "vfauvertical_3.interact"
+      },
+      {
+        "id": "vfauvertical_4.interact"
+      },
+      {
+        "id": "vfauvertical_5.interact"
+      },
+      {
+        "id": "vfauvertical_6.interact"
+      },
+      {
+        "id": "vfauvertical_7.interact"
+      },
+      {
+        "id": "vfauvertical_8.interact"
+      },
+      {
+        "id": "vfauvertical_9.interact"
+      },
+      {
+        "id": "vfauvertical_10.interact"
+      },
+      {
+        "id": "vfauvertical_11.interact"
+      },
+      {
+        "id": "vfauvertical_12.interact"
+      },
+      {
+        "id": "vfauvertical_13.interact"
+      },
+      {
+        "id": "vfauvertical_14.interact"
+      },
+      {
+        "id": "vfauvertical_15.interact"
+      }
+    ],
+    "minItemNumber": 5
+  },
+  {
+    "id": "S_2_WBA_K1_GT",
+    "name": [
+      {
+        "lang": "de",
+        "value": "S_2_WBA_K1_GT"
+      }
+    ],
+    "description": [
+      {
+        "lang": "de",
+        "value": "Skala vom Typ 'BASE' für Lösungshäufigkeit (Prozent) Wortschatzumfang"
+      }
+    ],
+    "method": "SCORE_RATIO",
+    "methodParameters": {
+      "maxValue": 15
+    },
+    "items": [
+      {
+        "id": "vfauvertical_16.interact"
+      },
+      {
+        "id": "vfauvertical_17.interact"
+      },
+      {
+        "id": "vfauvertical_18.interact"
+      },
+      {
+        "id": "vfauvertical_19.interact"
+      },
+      {
+        "id": "vfauvertical_20.interact"
+      },
+      {
+        "id": "vfauvertical_21.interact"
+      },
+      {
+        "id": "vfauvertical_22.interact"
+      },
+      {
+        "id": "vfauvertical_23.interact"
+      },
+      {
+        "id": "vfauvertical_24.interact"
+      },
+      {
+        "id": "vfauvertical_25.interact"
+      },
+      {
+        "id": "vfauvertical_26.interact"
+      },
+      {
+        "id": "vfauvertical_27.interact"
+      },
+      {
+        "id": "vfauvertical_28.interact"
+      },
+      {
+        "id": "vfauvertical_29.interact"
+      },
+      {
+        "id": "vfauvertical_30.interact"
+      }
+    ],
+    "minItemNumber": 5
+  },
+  {
+    "id": "S_3_SBA_K1_GT",
+    "name": [
+      {
+        "lang": "de",
+        "value": "S_3_SBA_K1_GT"
+      }
+    ],
+    "description": [
+      {
+        "lang": "de",
+        "value": "Skala vom Typ 'BASE' für Lösungshäufigkeit (Prozent) Verstehen grammatischer Strukturen"
+      }
+    ],
+    "method": "SCORE_RATIO",
+    "methodParameters": {
+      "maxValue": 11
+    },
+    "items": [
+      {
+        "id": "vfauvertical_31.interact"
+      },
+      {
+        "id": "vfauvertical_32.interact"
+      },
+      {
+        "id": "vfauvertical_33.interact"
+      },
+      {
+        "id": "vfauvertical_34.interact"
+      },
+      {
+        "id": "vfauvertical_35.interact"
+      },
+      {
+        "id": "vfauvertical_36.interact"
+      },
+      {
+        "id": "vfauvertical_37.interact"
+      },
+      {
+        "id": "vfauvertical_38.interact"
+      },
+      {
+        "id": "vfauvertical_39.interact"
+      },
+      {
+        "id": "vfauvertical_40.interact"
+      },
+      {
+        "id": "vfauvertical_42.interact"
+      }
+    ],
+    "minItemNumber": 3
+  },
+  {
+    "id": "S_2_SR_K1_GT",
+    "name": [
+      {
+        "lang": "de",
+        "value": "S_2_SR_K1_GT"
+      }
+    ],
+    "description": [
+      {
+        "lang": "de",
+        "value": "Skala vom Typ 'BASE' für Lösungshäufigkeit (Prozent) Wortschatztiefe"
+      }
+    ],
+    "method": "SCORE_RATIO",
+    "methodParameters": {
+      "maxValue": 10
+    },
+    "items": [
+      {
+        "id": "but_multi_2row_1.interact"
+      },
+      {
+        "id": "but_multi_2row_2.interact"
+      },
+      {
+        "id": "but_multi_2row_3.interact"
+      },
+      {
+        "id": "but_multi_2row_4.interact"
+      },
+      {
+        "id": "but_multi_2row_5.interact"
+      },
+      {
+        "id": "but_multi_2row_6.interact"
+      },
+      {
+        "id": "but_multi_2row_7.interact"
+      },
+      {
+        "id": "but_multi_2row_8.interact"
+      },
+      {
+        "id": "but_multi_2row_9.interact"
+      },
+      {
+        "id": "but_multi_2row_10.interact"
+      }
+    ],
+    "minItemNumber": 0
+  },
+  {
+    "id": "S1_1_AE_K1_GT",
+    "name": [
+      {
+        "lang": "de",
+        "value": "S1_1_AE_K1_GT"
+      }
+    ],
+    "description": [
+      {
+        "lang": "de",
+        "value": "Skala vom Typ 'BASE' für Lösungshäufigkeit (Prozent) Anlaute erkennen"
+      }
+    ],
+    "method": "SCORE_RATIO",
+    "methodParameters": {
+      "maxValue": 9
+    },
+    "items": [
+      {
+        "id": "dnd_Koffer_1.interact"
+      },
+      {
+        "id": "dnd_Koffer_2.interact"
+      },
+      {
+        "id": "dnd_Koffer_3.interact"
+      },
+      {
+        "id": "dnd_Koffer_4.interact"
+      },
+      {
+        "id": "dnd_Koffer_5.interact"
+      },
+      {
+        "id": "dnd_Koffer_6.interact"
+      },
+      {
+        "id": "dnd_Koffer_7.interact"
+      },
+      {
+        "id": "dnd_Koffer_8.interact"
+      },
+      {
+        "id": "dnd_Koffer_9.interact"
+      }
+    ],
+    "minItemNumber": 0
+  }
+]

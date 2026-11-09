@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://w3id.org/iqb/spec/unit-xml/17.7">
+  <Metadata lastChange="2026-08-13T08:53:44.590Z">
+    <Id>image_only_5</Id>
+    <Label>M1_3_a; M1_3_b; M1_3_f, S1_4_SATZ</Label>
+    <Description/>
+    <Reference/>
+  </Metadata>
+  <DefinitionRef player="iqb-player-stars@0.7" editor="iqb-editor-stars@0.1.2-beta" lastChange="2026-05-26T15:00:05.312Z">image_only_5.voud</DefinitionRef>
+</Unit>

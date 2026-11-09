@@ -4,7 +4,7 @@
   <CustomTexts>
     <CustomText key="login_testEndButtonText">Test beenden</CustomText>
   </CustomTexts>
-  <Group id="TestTakerGroup_a5u4x" label="Login-Gruppe A">
+  <Group id="TestTakerGroup_a5u4x_sp1g" label="Login-Gruppe A">
     <Login mode="run-hot-return" name="a5u4x_1" pw="test1">
       <Booklet>booklet_sp1g</Booklet>
     </Login>
@@ -18,7 +18,7 @@
       <Booklet>booklet_sp1g</Booklet>
     </Login>
   </Group>
-  <Group id="TestTakerGroup_a8x9e" label="Login-Gruppe A">
+  <Group id="TestTakerGroup_a8x9e_sp1g" label="Login-Gruppe A">
     <Login mode="run-hot-return" name="a8x9e_1" pw="test1">
       <Booklet>booklet_sp1g</Booklet>
     </Login>
@@ -65,7 +65,7 @@
       <Booklet>booklet_sp1g</Booklet>
     </Login>
   </Group>
-  <Group id="TestTakerGroup_8uxhm" label="Login-Gruppe A">
+  <Group id="TestTakerGroup_8uxhm_sp1g" label="Login-Gruppe A">
     <Login mode="run-hot-return" name="8uxhm_1" pw="test1">
       <Booklet>booklet_sp1g</Booklet>
     </Login>
@@ -112,7 +112,7 @@
       <Booklet>booklet_sp1g</Booklet>
     </Login>
   </Group>
-  <Group id="TestTakerGroup_ldk82" label="Login-Gruppe A">
+  <Group id="TestTakerGroup_ldk82_sp1g" label="Login-Gruppe A">
     <Login mode="run-hot-return" name="ldk82_1" pw="test1">
       <Booklet>booklet_sp1g</Booklet>
     </Login>
@@ -156,6 +156,286 @@
       <Booklet>booklet_sp1g</Booklet>
     </Login>
     <Login mode="run-hot-return" name="ldk82_15" pw="test15">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+  </Group>
+  <Group id="TestTakerGroup_gazul_sp1g" label="Login-Gruppe A">
+    <Login mode="run-hot-return" name="gazul_1" pw="test1">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gazul_2" pw="test2">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gazul_3" pw="test3">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gazul_4" pw="test4">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gazul_5" pw="test5">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gazul_6" pw="test6">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gazul_7" pw="test7">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gazul_8" pw="test8">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gazul_9" pw="test9">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gazul_10" pw="test10">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gazul_11" pw="test11">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gazul_12" pw="test12">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gazul_13" pw="test13">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gazul_14" pw="test14">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gazul_16" pw="test16">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gazul_17" pw="test17">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gazul_18" pw="test18">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+  </Group>
+  <Group id="TestTakerGroup_7ttgf_sp1g" label="Login-Gruppe A">
+    <Login mode="run-hot-return" name="7ttgf_1" pw="test1">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="7ttgf_2" pw="test2">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="7ttgf_3" pw="test3">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="7ttgf_4" pw="test4">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="7ttgf_5" pw="test5">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="7ttgf_6" pw="test6">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="7ttgf_7" pw="test7">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="7ttgf_8" pw="test8">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="7ttgf_9" pw="test9">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="7ttgf_10" pw="test10">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="7ttgf_11" pw="test11">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="7ttgf_12" pw="test12">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="7ttgf_13" pw="test13">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="7ttgf_14" pw="test14">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="7ttgf_15" pw="test15">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="7ttgf_16" pw="test16">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="7ttgf_17" pw="test17">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="7ttgf_18" pw="test18">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="7ttgf_19" pw="test19">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="7ttgf_20" pw="test20">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="7ttgf_21" pw="test21">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="7ttgf_22" pw="test22">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="7ttgf_23" pw="test23">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="7ttgf_24" pw="test24">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="7ttgf_25" pw="test25">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+  </Group>
+  <Group id="TestTakerGroup_vdvl1_sp1g" label="Login-Gruppe A">
+    <Login mode="run-hot-return" name="vdvl1_1" pw="test1">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="vdvl1_2" pw="test2">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="vdvl1_3" pw="test3">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="vdvl1_4" pw="test4">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="vdvl1_5" pw="test5">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="vdvl1_6" pw="test6">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="vdvl1_7" pw="test7">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="vdvl1_8" pw="test8">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="vdvl1_9" pw="test9">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="vdvl1_10" pw="test10">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="vdvl1_11" pw="test11">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="vdvl1_12" pw="test12">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="vdvl1_13" pw="test13">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="vdvl1_14" pw="test14">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="vdvl1_16" pw="test16">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="vdvl1_17" pw="test17">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="vdvl1_18" pw="test18">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="vdvl1_19" pw="test19">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+  </Group>
+  <Group id="TestTakerGroup_gp0wz_sp1g" label="Login-Gruppe A">
+    <Login mode="run-hot-return" name="gp0wz_1" pw="test1">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gp0wz_2" pw="test2">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gp0wz_3" pw="test3">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gp0wz_4" pw="test4">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gp0wz_5" pw="test5">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gp0wz_6" pw="test6">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gp0wz_7" pw="test7">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gp0wz_8" pw="test8">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gp0wz_9" pw="test9">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gp0wz_10" pw="test10">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gp0wz_11" pw="test11">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gp0wz_12" pw="test12">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gp0wz_13" pw="test13">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gp0wz_14" pw="test14">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="gp0wz_15" pw="test15">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+  </Group>
+  <Group id="TestTakerGroup_yqhsj_sp1g" label="Login-Gruppe A">
+    <Login mode="run-hot-return" name="yqhsj_1" pw="test1">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="yqhsj_2" pw="test2">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="yqhsj_3" pw="test3">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="yqhsj_4" pw="test4">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="yqhsj_5" pw="test5">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="yqhsj_6" pw="test6">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="yqhsj_7" pw="test7">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="yqhsj_8" pw="test8">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="yqhsj_9" pw="test9">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="yqhsj_10" pw="test10">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="yqhsj_11" pw="test11">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="yqhsj_12" pw="test12">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="yqhsj_13" pw="test13">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="yqhsj_14" pw="test14">
+      <Booklet>booklet_sp1g</Booklet>
+    </Login>
+    <Login mode="run-hot-return" name="yqhsj_15" pw="test15">
       <Booklet>booklet_sp1g</Booklet>
     </Login>
   </Group>

@@ -1,7 +1,6 @@
 {
   "codedResponses": [
     {
-      "unitId": "but_multi_2row_1",
       "unitAlias": "but_multi_2row_1",
       "responses": [
         {
@@ -14,7 +13,6 @@
       ]
     },
     {
-      "unitId": "but_multi_2row_10",
       "unitAlias": "but_multi_2row_10",
       "responses": [
         {
@@ -27,7 +25,6 @@
       ]
     },
     {
-      "unitId": "but_multi_2row_2",
       "unitAlias": "but_multi_2row_2",
       "responses": [
         {
@@ -40,7 +37,6 @@
       ]
     },
     {
-      "unitId": "but_multi_2row_3",
       "unitAlias": "but_multi_2row_3",
       "responses": [
         {
@@ -53,7 +49,6 @@
       ]
     },
     {
-      "unitId": "but_multi_2row_4",
       "unitAlias": "but_multi_2row_4",
       "responses": [
         {
@@ -66,7 +61,6 @@
       ]
     },
     {
-      "unitId": "but_multi_2row_5",
       "unitAlias": "but_multi_2row_5",
       "responses": [
         {
@@ -79,7 +73,6 @@
       ]
     },
     {
-      "unitId": "but_multi_2row_6",
       "unitAlias": "but_multi_2row_6",
       "responses": [
         {
@@ -92,7 +85,6 @@
       ]
     },
     {
-      "unitId": "but_multi_2row_7",
       "unitAlias": "but_multi_2row_7",
       "responses": [
         {
@@ -105,7 +97,6 @@
       ]
     },
     {
-      "unitId": "but_multi_2row_8",
       "unitAlias": "but_multi_2row_8",
       "responses": [
         {
@@ -118,7 +109,6 @@
       ]
     },
     {
-      "unitId": "but_multi_2row_9",
       "unitAlias": "but_multi_2row_9",
       "responses": [
         {
@@ -131,7 +121,6 @@
       ]
     },
     {
-      "unitId": "but_multi_2row_UE",
       "unitAlias": "but_multi_2row_UE",
       "responses": [
         {
@@ -144,7 +133,6 @@
       ]
     },
     {
-      "unitId": "dnd_Koffer_1",
       "unitAlias": "dnd_Koffer_1",
       "responses": [
         {
@@ -157,7 +145,6 @@
       ]
     },
     {
-      "unitId": "dnd_Koffer_2",
       "unitAlias": "dnd_Koffer_2",
       "responses": [
         {
@@ -170,7 +157,6 @@
       ]
     },
     {
-      "unitId": "dnd_Koffer_3",
       "unitAlias": "dnd_Koffer_3",
       "responses": [
         {
@@ -183,7 +169,6 @@
       ]
     },
     {
-      "unitId": "dnd_Koffer_4",
       "unitAlias": "dnd_Koffer_4",
       "responses": [
         {
@@ -196,7 +181,6 @@
       ]
     },
     {
-      "unitId": "dnd_Koffer_5",
       "unitAlias": "dnd_Koffer_5",
       "responses": [
         {
@@ -209,7 +193,6 @@
       ]
     },
     {
-      "unitId": "dnd_Koffer_6",
       "unitAlias": "dnd_Koffer_6",
       "responses": [
         {
@@ -222,7 +205,6 @@
       ]
     },
     {
-      "unitId": "dnd_Koffer_7",
       "unitAlias": "dnd_Koffer_7",
       "responses": [
         {
@@ -235,7 +217,6 @@
       ]
     },
     {
-      "unitId": "dnd_Koffer_8",
       "unitAlias": "dnd_Koffer_8",
       "responses": [
         {
@@ -248,7 +229,6 @@
       ]
     },
     {
-      "unitId": "dnd_Koffer_9",
       "unitAlias": "dnd_Koffer_9",
       "responses": [
         {
@@ -261,7 +241,6 @@
       ]
     },
     {
-      "unitId": "dnd_Koffer_UE",
       "unitAlias": "dnd_Koffer_UE",
       "responses": [
         {
@@ -274,7 +253,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_1",
       "unitAlias": "vfauvertical_1",
       "responses": [
         {
@@ -287,7 +265,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_10",
       "unitAlias": "vfauvertical_10",
       "responses": [
         {
@@ -300,7 +277,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_11",
       "unitAlias": "vfauvertical_11",
       "responses": [
         {
@@ -313,7 +289,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_12",
       "unitAlias": "vfauvertical_12",
       "responses": [
         {
@@ -326,7 +301,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_13",
       "unitAlias": "vfauvertical_13",
       "responses": [
         {
@@ -339,7 +313,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_14",
       "unitAlias": "vfauvertical_14",
       "responses": [
         {
@@ -352,7 +325,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_15",
       "unitAlias": "vfauvertical_15",
       "responses": [
         {
@@ -365,7 +337,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_16",
       "unitAlias": "vfauvertical_16",
       "responses": [
         {
@@ -378,7 +349,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_17",
       "unitAlias": "vfauvertical_17",
       "responses": [
         {
@@ -391,7 +361,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_18",
       "unitAlias": "vfauvertical_18",
       "responses": [
         {
@@ -404,7 +373,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_19",
       "unitAlias": "vfauvertical_19",
       "responses": [
         {
@@ -417,7 +385,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_2",
       "unitAlias": "vfauvertical_2",
       "responses": [
         {
@@ -430,7 +397,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_20",
       "unitAlias": "vfauvertical_20",
       "responses": [
         {
@@ -443,7 +409,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_21",
       "unitAlias": "vfauvertical_21",
       "responses": [
         {
@@ -456,7 +421,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_22",
       "unitAlias": "vfauvertical_22",
       "responses": [
         {
@@ -469,7 +433,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_23",
       "unitAlias": "vfauvertical_23",
       "responses": [
         {
@@ -482,7 +445,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_24",
       "unitAlias": "vfauvertical_24",
       "responses": [
         {
@@ -495,7 +457,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_25",
       "unitAlias": "vfauvertical_25",
       "responses": [
         {
@@ -508,7 +469,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_26",
       "unitAlias": "vfauvertical_26",
       "responses": [
         {
@@ -521,7 +481,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_27",
       "unitAlias": "vfauvertical_27",
       "responses": [
         {
@@ -534,7 +493,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_28",
       "unitAlias": "vfauvertical_28",
       "responses": [
         {
@@ -547,7 +505,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_29",
       "unitAlias": "vfauvertical_29",
       "responses": [
         {
@@ -560,7 +517,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_3",
       "unitAlias": "vfauvertical_3",
       "responses": [
         {
@@ -573,7 +529,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_30",
       "unitAlias": "vfauvertical_30",
       "responses": [
         {
@@ -586,7 +541,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_31",
       "unitAlias": "vfauvertical_31",
       "responses": [
         {
@@ -599,7 +553,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_32",
       "unitAlias": "vfauvertical_32",
       "responses": [
         {
@@ -612,7 +565,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_33",
       "unitAlias": "vfauvertical_33",
       "responses": [
         {
@@ -625,7 +577,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_34",
       "unitAlias": "vfauvertical_34",
       "responses": [
         {
@@ -638,7 +589,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_35",
       "unitAlias": "vfauvertical_35",
       "responses": [
         {
@@ -651,7 +601,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_36",
       "unitAlias": "vfauvertical_36",
       "responses": [
         {
@@ -664,7 +613,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_37",
       "unitAlias": "vfauvertical_37",
       "responses": [
         {
@@ -677,7 +625,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_38",
       "unitAlias": "vfauvertical_38",
       "responses": [
         {
@@ -690,7 +637,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_39",
       "unitAlias": "vfauvertical_39",
       "responses": [
         {
@@ -703,7 +649,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_4",
       "unitAlias": "vfauvertical_4",
       "responses": [
         {
@@ -716,7 +661,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_40",
       "unitAlias": "vfauvertical_40",
       "responses": [
         {
@@ -729,7 +673,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_41",
       "unitAlias": "vfauvertical_41",
       "responses": [
         {
@@ -742,7 +685,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_42",
       "unitAlias": "vfauvertical_42",
       "responses": [
         {
@@ -755,7 +697,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_5",
       "unitAlias": "vfauvertical_5",
       "responses": [
         {
@@ -768,7 +709,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_6",
       "unitAlias": "vfauvertical_6",
       "responses": [
         {
@@ -781,7 +721,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_7",
       "unitAlias": "vfauvertical_7",
       "responses": [
         {
@@ -794,7 +733,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_8",
       "unitAlias": "vfauvertical_8",
       "responses": [
         {
@@ -807,7 +745,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_9",
       "unitAlias": "vfauvertical_9",
       "responses": [
         {
@@ -820,7 +757,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_UE_1",
       "unitAlias": "vfauvertical_UE_1",
       "responses": [
         {
@@ -833,7 +769,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_UE_2",
       "unitAlias": "vfauvertical_UE_2",
       "responses": [
         {
@@ -846,7 +781,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_UE_3",
       "unitAlias": "vfauvertical_UE_3",
       "responses": [
         {
@@ -859,7 +793,6 @@
       ]
     },
     {
-      "unitId": "vfauvertical_UE_4",
       "unitAlias": "vfauvertical_UE_4",
       "responses": [
         {
@@ -875,297 +808,364 @@
   "itemValues": [
     {
       "id": "but_multi_2row_1.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "but_multi_2row_10.interact",
-      "value": 0
+      "code": 0,
+      "score": 0
     },
     {
       "id": "but_multi_2row_2.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "but_multi_2row_3.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "but_multi_2row_4.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "but_multi_2row_5.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "but_multi_2row_6.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "but_multi_2row_7.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "but_multi_2row_8.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "but_multi_2row_9.interact",
-      "value": 0
+      "code": 0,
+      "score": 0
     },
     {
       "id": "but_multi_2row_UE.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "dnd_Koffer_1.interact",
-      "value": 0
+      "code": 0,
+      "score": 0
     },
     {
       "id": "dnd_Koffer_2.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "dnd_Koffer_3.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "dnd_Koffer_4.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "dnd_Koffer_5.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "dnd_Koffer_6.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "dnd_Koffer_7.interact",
-      "value": 0
+      "code": 0,
+      "score": 0
     },
     {
       "id": "dnd_Koffer_8.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "dnd_Koffer_9.interact",
-      "value": 0
+      "code": 0,
+      "score": 0
     },
     {
       "id": "dnd_Koffer_UE.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_1.interact",
-      "value": 0
+      "code": 0,
+      "score": 0
     },
     {
       "id": "vfauvertical_10.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_11.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_12.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_13.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_14.interact",
-      "value": 0
+      "code": 0,
+      "score": 0
     },
     {
       "id": "vfauvertical_15.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_16.interact",
-      "value": 0
+      "code": 0,
+      "score": 0
     },
     {
       "id": "vfauvertical_17.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_18.interact",
-      "value": 0
+      "code": 0,
+      "score": 0
     },
     {
       "id": "vfauvertical_19.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_2.interact",
-      "value": 0
+      "code": 0,
+      "score": 0
     },
     {
       "id": "vfauvertical_20.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_21.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_22.interact",
-      "value": 0
+      "code": 0,
+      "score": 0
     },
     {
       "id": "vfauvertical_23.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_24.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_25.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_26.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_27.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_28.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_29.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_3.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_30.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_31.interact",
-      "value": 0
+      "code": 0,
+      "score": 0
     },
     {
       "id": "vfauvertical_32.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_33.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_34.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_35.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_36.interact",
-      "value": 0
+      "code": 0,
+      "score": 0
     },
     {
       "id": "vfauvertical_37.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_38.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_39.interact",
-      "value": 0
+      "code": 0,
+      "score": 0
     },
     {
       "id": "vfauvertical_4.interact",
-      "value": 0
+      "code": 0,
+      "score": 0
     },
     {
       "id": "vfauvertical_40.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_41.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_42.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_5.interact",
-      "value": 0
+      "code": 0,
+      "score": 0
     },
     {
       "id": "vfauvertical_6.interact",
-      "value": 0
+      "code": 0,
+      "score": 0
     },
     {
       "id": "vfauvertical_7.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_8.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_9.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_UE_1.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_UE_2.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     },
     {
       "id": "vfauvertical_UE_3.interact",
-      "value": 0
+      "code": 0,
+      "score": 0
     },
     {
       "id": "vfauvertical_UE_4.interact",
-      "value": 1
+      "code": 1,
+      "score": 1
     }
   ],
   "scaleValues": [
     {
-      "assessmentPartId": "sp1",
       "scaleId": "S1_4_BID_K1_GT",
+      "status": "VALID",
       "value": 60
     },
     {
-      "assessmentPartId": "sp1",
       "scaleId": "S_2_WBA_K1_GT",
+      "status": "VALID",
       "value": 80
     },
     {
-      "assessmentPartId": "sp1",
       "scaleId": "S_3_SBA_K1_GT",
+      "status": "VALID",
       "value": 73
     },
     {
-      "assessmentPartId": "sp1",
       "scaleId": "S_2_SR_K1_GT",
+      "status": "VALID",
       "value": 80
     },
     {
-      "assessmentPartId": "sp1",
       "scaleId": "S1_1_AE_K1_GT",
+      "status": "VALID",
       "value": 67
     }
   ]

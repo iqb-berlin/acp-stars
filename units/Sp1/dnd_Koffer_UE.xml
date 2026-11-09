@@ -6,5 +6,5 @@
     <Description/>
     <Reference>dnd_Koffer_UE.vomd</Reference>
   </Metadata>
-  <DefinitionRef player="iqb-player-stars@0.6" editor="iqb-editor-stars@0.1.2-beta" lastChange="2026-05-27T11:12:51.115Z">dnd_Koffer_UE.voud</DefinitionRef>
+  <DefinitionRef player="iqb-player-stars@0.7" editor="iqb-editor-stars@0.1.2-beta" lastChange="2026-05-27T11:12:51.115Z">dnd_Koffer_UE.voud</DefinitionRef>
 </Unit>

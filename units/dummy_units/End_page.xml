@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://w3id.org/iqb/spec/unit-xml/17.7">
+  <Metadata lastChange="2025-08-18T18:02:37.746Z">
+    <Id>End_page</Id>
+    <Label>Endseite</Label>
+    <Description/>
+    <Reference/>
+  </Metadata>
+  <DefinitionRef player="iqb-player-aspect@2.7" editor="iqb-editor-aspect@2.7" lastChange="2025-08-29T09:54:20.691Z">End_page.voud</DefinitionRef>
+  <BaseVariables>
+    <Variable id="image_1753193190510_1" alias="image_1" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="button_1753194912297_1" alias="button_1" type="no-value" format="" nullable="false" multiple="false" page=""/>
+  </BaseVariables>
+</Unit>

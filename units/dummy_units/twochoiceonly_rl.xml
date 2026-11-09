@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://w3id.org/iqb/spec/unit-xml/17.7">
+  <Metadata lastChange="2026-08-13T08:56:17.067Z">
+    <Id>twochoiceonly_rl</Id>
+    <Label>M1_1b_b, M2_1b_b</Label>
+    <Description/>
+    <Reference/>
+  </Metadata>
+  <DefinitionRef player="iqb-player-stars@0.7" editor="iqb-editor-stars@0.1.2-beta" lastChange="2026-08-24T12:16:52.446Z">twochoiceonly_rl.voud</DefinitionRef>
+</Unit>

@@ -6,5 +6,5 @@
     <Description/>
     <Reference>vierfelderAudio_Row_2.vomd</Reference>
   </Metadata>
-  <DefinitionRef player="iqb-player-stars@0.6" editor="iqb-editor-stars@0.1.2-beta" lastChange="2026-05-27T10:28:52.928Z">vierfelderAudio_Row_2.voud</DefinitionRef>
+  <DefinitionRef player="iqb-player-stars@0.7" editor="iqb-editor-stars@0.1.2-beta" lastChange="2026-05-27T10:28:52.928Z">vierfelderAudio_Row_2.voud</DefinitionRef>
 </Unit>

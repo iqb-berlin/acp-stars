@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://w3id.org/iqb/spec/unit-xml/17.7">
+  <Metadata lastChange="2026-08-24T11:59:18.643Z">
+    <Id>vfauvertical</Id>
+    <Label>S1_4_BID; S_2_WBA </Label>
+    <Description/>
+    <Reference/>
+  </Metadata>
+  <DefinitionRef player="iqb-player-stars@0.7" editor="iqb-editor-stars@0.1.2-beta" lastChange="2026-08-24T11:59:15.080Z">vfauvertical.voud</DefinitionRef>
+</Unit>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://w3id.org/iqb/spec/unit-xml/17.7">
+  <Metadata lastChange="2026-11-03T08:53:09.588Z">
+    <Id>SR_E_01</Id>
+    <Label>Begrüßung</Label>
+    <Reference/>
+  </Metadata>
+  <DefinitionRef player="iqb-player-abi@5.0" editor="iqb-editor-plaintext@1.0" lastChange="2026-11-03T08:55:24.740Z">SR_E_01.voud</DefinitionRef>
+</Unit>

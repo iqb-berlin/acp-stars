@@ -1,9 +1,10 @@
 <?xml version="1.0"?>
 <Unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://w3id.org/iqb/spec/unit-xml/17.7">
-  <Metadata lastChange="2025-12-29T11:12:25.357Z">
+  <Metadata lastChange="2026-07-30T11:02:57.669Z">
     <Id>M1_1a_a_01</Id>
-    <Label>Klasse 1 Skala 1a_a Item 01 </Label>
-    <Reference>M1_1a_a_01.vomd</Reference>
+    <Label>geprüft IQB, geprüft VP</Label>
+    <Description/>
+    <Reference/>
   </Metadata>
   <DefinitionRef player="iqb-player-aspect@2.7" editor="iqb-editor-aspect@2.7" lastChange="2026-06-01T08:16:54.276Z">M1_1a_a_01.voud</DefinitionRef>
   <BaseVariables>
@@ -114,5 +115,5 @@
       </Values>
     </Variable>
   </BaseVariables>
-  <CodingSchemeRef schemer="iqb-schemer@2.1" lastChange="2025-07-17T06:55:38.303Z"/>
+  <CodingSchemeRef schemer="iqb-schemer@2.1" schemeType="iqb@3.0" lastChange="2026-07-30T11:17:39.505Z">M1_1a_a_01.vocs</CodingSchemeRef>
 </Unit>

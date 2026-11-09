@@ -1,0 +1,18 @@
+iqb-scripted::1.2
+hr
+header::Bitte geben Sie an, wie sehr die folgenden Aussagen auf Ihr Kind zutreffen.
+
+likert-start::trifft überhaupt nicht zu##trifft eher nicht zu##trifft eher zu##trifft genau zu
+    likert::item1::Item 1
+    likert::item2::Item 2
+    likert::item3::Item 3
+    likert::item4::Item 4
+    likert::item5::Item 5
+    likert::item6::Item 6
+    likert::item7::Item 7
+    likert::item8::Item 8
+    likert::item9::Item 9
+    likert::item10::Item 10
+likert-end
+
+

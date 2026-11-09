@@ -3,11 +3,11 @@
   <Metadata lastChange="2026-07-02T12:25:18.003Z">
     <Id>S1_4_BB_02</Id>
     <Label>Buchstabentafel 2 (Protokollbogen für IEA)</Label>
-    <Reference>S1_4_BB_02.vomd</Reference>
+    <Reference/>
   </Metadata>
-  <DefinitionRef player="iqb-player-aspect@2.12" editor="iqb-editor-aspect@2.12" lastChange="2026-07-02T12:47:46.959Z">S1_4_BB_02.voud</DefinitionRef>
+  <DefinitionRef player="iqb-player-aspect@2.12" editor="iqb-editor-aspect@2.12" lastChange="2026-07-28T14:08:41.077Z">S1_4_BB_02.voud</DefinitionRef>
   <BaseVariables>
-    <Variable id="text_1782845657416_1" alias="text_3" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="text_1782845657416_1" alias="BB_Gruppe02" type="no-value" format="" nullable="false" multiple="false" page=""/>
     <Variable id="image_1782331448018_1" alias="image_20" type="no-value" format="" nullable="false" multiple="false" page=""/>
     <Variable id="image_1782331448018_2" alias="image_21" type="no-value" format="" nullable="false" multiple="false" page=""/>
     <Variable id="image_1782331448018_3" alias="image_22" type="no-value" format="" nullable="false" multiple="false" page=""/>

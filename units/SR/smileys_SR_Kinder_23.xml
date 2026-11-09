@@ -5,5 +5,5 @@
     <Label>Selbsteinschätzung_Selbstregulation </Label>
     <Reference>smileys_SR_Kinder_23.vomd</Reference>
   </Metadata>
-  <DefinitionRef player="iqb-player-stars@0.6" editor="iqb-editor-stars@0.1.2-beta" lastChange="2026-05-27T10:12:24.957Z">smileys_SR_Kinder_23.voud</DefinitionRef>
+  <DefinitionRef player="iqb-player-stars@0.7" editor="iqb-editor-stars@0.1.2-beta" lastChange="2026-05-27T10:12:24.957Z">smileys_SR_Kinder_23.voud</DefinitionRef>
 </Unit>

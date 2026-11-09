@@ -6,5 +6,5 @@
     <Description>geprüft 2 von 2</Description>
     <Reference>vfauvertical_UE_3.vomd</Reference>
   </Metadata>
-  <DefinitionRef player="iqb-player-stars@0.6" editor="iqb-editor-stars@0.1.2-beta" lastChange="2026-05-27T11:13:35.331Z">vfauvertical_UE_3.voud</DefinitionRef>
+  <DefinitionRef player="iqb-player-stars@0.7" editor="iqb-editor-stars@0.1.2-beta" lastChange="2026-05-27T11:13:35.331Z">vfauvertical_UE_3.voud</DefinitionRef>
 </Unit>

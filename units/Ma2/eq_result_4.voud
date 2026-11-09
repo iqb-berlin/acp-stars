@@ -1,0 +1,31 @@
+{
+  "id": "stars-unit-definition",
+  "version": "2.4",
+  "backgroundColor": "#E3D8FF",
+  "continueButtonShow": "ON_ANY_RESPONSE",
+  "ribbonBars": false,
+  "interactionType": "EQUATION",
+  "interactionParameters": {
+    "variableId": "interact",
+    "fixOperand1": 4,
+    "fixOperand2": 2,
+    "operators": [
+      "+"
+    ]
+  },
+  "variableInfo": [
+    {
+      "variableId": "interact",
+      "responseComplete": "ON_ANY_RESPONSE",
+      "codingSource": "VALUE",
+      "codes": [
+        {
+          "method": "EQUALS",
+          "parameter": "6",
+          "code": 1,
+          "score": 1
+        }
+      ]
+    }
+  ]
+}

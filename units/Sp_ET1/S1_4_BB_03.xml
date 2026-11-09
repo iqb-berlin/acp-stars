@@ -3,12 +3,12 @@
   <Metadata lastChange="2026-07-02T12:25:24.201Z">
     <Id>S1_4_BB_03</Id>
     <Label>Buchstabentafel 3 (Protokollbogen für IEA)</Label>
-    <Reference>S1_4_BB_03.vomd</Reference>
+    <Reference/>
   </Metadata>
-  <DefinitionRef player="iqb-player-aspect@2.12" editor="iqb-editor-aspect@2.12" lastChange="2026-07-02T12:47:55.383Z">S1_4_BB_03.voud</DefinitionRef>
+  <DefinitionRef player="iqb-player-aspect@2.12" editor="iqb-editor-aspect@2.12" lastChange="2026-07-28T14:07:34.880Z">S1_4_BB_03.voud</DefinitionRef>
   <BaseVariables>
-    <Variable id="text_1782845657416_1" alias="text_3" type="no-value" format="" nullable="false" multiple="false" page=""/>
-    <Variable id="image_1782331448018_1" alias="image_20" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="text_1782845657416_1" alias="BB_Gruppe03" type="no-value" format="" nullable="false" multiple="false" page=""/>
+    <Variable id="image_1782331448018_1" alias="S1_4_BB_03" type="no-value" format="" nullable="false" multiple="false" page=""/>
     <Variable id="image_1782331448018_2" alias="image_21" type="no-value" format="" nullable="false" multiple="false" page=""/>
     <Variable id="image_1782331448018_3" alias="image_22" type="no-value" format="" nullable="false" multiple="false" page=""/>
     <Variable id="image_1782331448018_4" alias="image_23" type="no-value" format="" nullable="false" multiple="false" page=""/>
@@ -151,6 +151,18 @@
         <Value>
           <label>af</label>
           <value>6</value>
+        </Value>
+      </Values>
+    </Variable>
+    <Variable id="radio_1785247238717_1" alias="S1_4_BB_abbruch" type="integer" format="" nullable="false" multiple="false" page="">
+      <Values complete="true">
+        <Value>
+          <label>... innerhalb von 4 Minuten vollständig bearbeitet.</label>
+          <value>1</value>
+        </Value>
+        <Value>
+          <label>... nach 4 Minuten abgebrochen.</label>
+          <value>2</value>
         </Value>
       </Values>
     </Variable>
